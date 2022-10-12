@@ -1,0 +1,3876 @@
+[
+    {
+        "bounding_boxes": {
+            "Mouth_Whole": {
+                "top_left": {
+                    "x": 778,
+                    "y": 1860
+                },
+                "bottom_right": {
+                    "x": 1332,
+                    "y": 2107
+                }
+            },
+            "ForeheadCenter_Lower": {
+                "top_left": {
+                    "x": 927,
+                    "y": 833
+                },
+                "bottom_right": {
+                    "x": 1154,
+                    "y": 1351
+                }
+            },
+            "EyeLeft_Whole": {
+                "top_left": {
+                    "x": 626,
+                    "y": 1100
+                },
+                "bottom_right": {
+                    "x": 921,
+                    "y": 1365
+                }
+            },
+            "EyeRight_Whole": {
+                "top_left": {
+                    "x": 1172,
+                    "y": 1064
+                },
+                "bottom_right": {
+                    "x": 1488,
+                    "y": 1355
+                }
+            },
+            "EyeLeft_InnerCorner": {
+                "top_left": {
+                    "x": 852,
+                    "y": 1178
+                },
+                "bottom_right": {
+                    "x": 961,
+                    "y": 1323
+                }
+            },
+            "EyeRight_InnerCorner": {
+                "top_left": {
+                    "x": 1130,
+                    "y": 1158
+                },
+                "bottom_right": {
+                    "x": 1248,
+                    "y": 1313
+                }
+            },
+            "EyeLeft_OuterCorner": {
+                "top_left": {
+                    "x": 576,
+                    "y": 1168
+                },
+                "bottom_right": {
+                    "x": 658,
+                    "y": 1332
+                }
+            },
+            "EyeRight_OuterCorner": {
+                "top_left": {
+                    "x": 1440,
+                    "y": 1152
+                },
+                "bottom_right": {
+                    "x": 1548,
+                    "y": 1324
+                }
+            },
+            "EyeLeft_NasalRoot": {
+                "top_left": {
+                    "x": 932,
+                    "y": 1235
+                },
+                "bottom_right": {
+                    "x": 980,
+                    "y": 1365
+                }
+            },
+            "EyeRight_NasalRoot": {
+                "top_left": {
+                    "x": 1108,
+                    "y": 1214
+                },
+                "bottom_right": {
+                    "x": 1170,
+                    "y": 1356
+                }
+            },
+            "EyeLeft_UpperLid": {
+                "top_left": {
+                    "x": 639,
+                    "y": 1057
+                },
+                "bottom_right": {
+                    "x": 893,
+                    "y": 1201
+                }
+            },
+            "EyeRight_UpperLid": {
+                "top_left": {
+                    "x": 1193,
+                    "y": 993
+                },
+                "bottom_right": {
+                    "x": 1461,
+                    "y": 1196
+                }
+            },
+            "EyeLeft_LowerLid": {
+                "top_left": {
+                    "x": 651,
+                    "y": 1312
+                },
+                "bottom_right": {
+                    "x": 864,
+                    "y": 1392
+                }
+            },
+            "EyeRight_LowerLid": {
+                "top_left": {
+                    "x": 1235,
+                    "y": 1302
+                },
+                "bottom_right": {
+                    "x": 1463,
+                    "y": 1383
+                }
+            },
+            "EyeLeft_Lower": {
+                "top_left": {
+                    "x": 651,
+                    "y": 1365
+                },
+                "bottom_right": {
+                    "x": 921,
+                    "y": 1524
+                }
+            },
+            "EyeRight_Lower": {
+                "top_left": {
+                    "x": 1179,
+                    "y": 1356
+                },
+                "bottom_right": {
+                    "x": 1463,
+                    "y": 1518
+                }
+            },
+            "MouthLeft_Corner": {
+                "top_left": {
+                    "x": 778,
+                    "y": 1938
+                },
+                "bottom_right": {
+                    "x": 903,
+                    "y": 2021
+                }
+            },
+            "MouthRight_Corner": {
+                "top_left": {
+                    "x": 1199,
+                    "y": 1931
+                },
+                "bottom_right": {
+                    "x": 1332,
+                    "y": 2018
+                }
+            },
+            "MouthUpper_Pallium": {
+                "top_left": {
+                    "x": 944,
+                    "y": 1689
+                },
+                "bottom_right": {
+                    "x": 1164,
+                    "y": 1983
+                }
+            },
+            "MouthUpper_Lip": {
+                "top_left": {
+                    "x": 909,
+                    "y": 1891
+                },
+                "bottom_right": {
+                    "x": 1192,
+                    "y": 1991
+                }
+            },
+            "MouthLower_Lip": {
+                "top_left": {
+                    "x": 904,
+                    "y": 1921
+                },
+                "bottom_right": {
+                    "x": 1196,
+                    "y": 2076
+                }
+            },
+            "MouthLower_UnderLip": {
+                "top_left": {
+                    "x": 904,
+                    "y": 2030
+                },
+                "bottom_right": {
+                    "x": 1196,
+                    "y": 2110
+                }
+            },
+            "ChinWhole_Tip": {
+                "top_left": {
+                    "x": 955,
+                    "y": 2213
+                },
+                "bottom_right": {
+                    "x": 1162,
+                    "y": 2288
+                }
+            },
+            "TempleLeft_Whole": {
+                "top_left": {
+                    "x": 491,
+                    "y": 927
+                },
+                "bottom_right": {
+                    "x": 581,
+                    "y": 1148
+                }
+            },
+            "TempleRight_Whole": {
+                "top_left": {
+                    "x": 1517,
+                    "y": 911
+                },
+                "bottom_right": {
+                    "x": 1617,
+                    "y": 1131
+                }
+            }
+        },
+        "image_name": "1b1dcbfe-741d-4dac-ad39-c8bbf46f55de_ACQ.png",
+        "face_labels": {
+            "EyeLeft_NasalRoot_Dark": "Yes",
+            "EyeRight_NasalRoot_Dark": "Yes",
+            "EyeLeft_OuterCorner_Dark": "No",
+            "EyeRight_OuterCorner_Dark": "No",
+            "EyeLeft_InnerCorner_BrightDot": "No",
+            "EyeRight_InnerCorner_BrightDot": "No",
+            "EyeLeft_InnerCorner_Bright": "No",
+            "EyeRight_InnerCorner_Bright": "No",
+            "EyeLeft_Whole_Protruding": "No",
+            "EyeRight_Whole_Protruding": "No",
+            "EyeLeft_UpperLid_Droopy": "No",
+            "EyeRight_UpperLid_Droopy": "No",
+            "EyeLeft_Lower_Pale": "No",
+            "EyeRight_Lower_Pale": "No",
+            "EyeLeft_Lower_Tearsack": "No",
+            "EyeRight_Lower_Tearsack": "No",
+            "EyeLeft_Lower_Dark": "No",
+            "EyeRight_Lower_Dark": "No",
+            "MouthUpper_Lip_BrightLine": "No",
+            "MouthLower_Lip_BrightLine": "No",
+            "MouthLeft_Corner_Cracked": "No",
+            "MouthRight_Corner_Cracked": "No",
+            "MouthLeft_Corner_Red": "No",
+            "MouthRight_Corner_Red": "No",
+            "MouthUpper_Pallium_VerticalWrinkles": "No",
+            "MouthUpper_Pallium_Red": "No",
+            "MouthUpper_Pallium_Dark": "No",
+            "MouthLower_UnderLip_Swollen": "Yes",
+            "MouthUpper_UnderLip_VerticalWrinkles": "No",
+            "ChinWhole_Tip_Red": "Yes",
+            "ChinWhole_Tip_Dimples": "No",
+            "ForeheadCenter_Lower_VerticalWrinkles": "No",
+            "TempleLeft_Whole_Dented": "No",
+            "TempleRight_Whole_Dented": "No",
+            "CheekRight_Whole_Red": "NotLabeled",
+            "CheekLeft_Whole_Red": "NotLabeled",
+            "MouthWhole_Around_BrownYellow": "NotLabeled",
+            "MouthWhole_Lips_Smooth": "NotLabeled",
+            "MouthWhole_Lips_AlteredStructure": "NotLabeled"
+        },
+        "email": "nana@nana.at",
+        "uid": "nana@nana.at_1b1dcbfe-741d-4dac-ad39-c8bbf46f55de_ACQ.png"
+    },
+    {
+        "bounding_boxes": {
+            "Mouth_Whole": {
+                "top_left": {
+                    "x": 1157,
+                    "y": 2664
+                },
+                "bottom_right": {
+                    "x": 2033,
+                    "y": 3074
+                }
+            },
+            "ForeheadCenter_Lower": {
+                "top_left": {
+                    "x": 1397,
+                    "y": 1356
+                },
+                "bottom_right": {
+                    "x": 1775,
+                    "y": 2022
+                }
+            },
+            "EyeLeft_Whole": {
+                "top_left": {
+                    "x": 902,
+                    "y": 1703
+                },
+                "bottom_right": {
+                    "x": 1387,
+                    "y": 2060
+                }
+            },
+            "EyeRight_Whole": {
+                "top_left": {
+                    "x": 1811,
+                    "y": 1704
+                },
+                "bottom_right": {
+                    "x": 2280,
+                    "y": 2055
+                }
+            },
+            "EyeLeft_InnerCorner": {
+                "top_left": {
+                    "x": 1270,
+                    "y": 1806
+                },
+                "bottom_right": {
+                    "x": 1449,
+                    "y": 1990
+                }
+            },
+            "EyeRight_InnerCorner": {
+                "top_left": {
+                    "x": 1743,
+                    "y": 1803
+                },
+                "bottom_right": {
+                    "x": 1926,
+                    "y": 1989
+                }
+            },
+            "EyeLeft_OuterCorner": {
+                "top_left": {
+                    "x": 821,
+                    "y": 1808
+                },
+                "bottom_right": {
+                    "x": 955,
+                    "y": 2022
+                }
+            },
+            "EyeRight_OuterCorner": {
+                "top_left": {
+                    "x": 2210,
+                    "y": 1807
+                },
+                "bottom_right": {
+                    "x": 2367,
+                    "y": 2018
+                }
+            },
+            "EyeLeft_NasalRoot": {
+                "top_left": {
+                    "x": 1405,
+                    "y": 1852
+                },
+                "bottom_right": {
+                    "x": 1484,
+                    "y": 2042
+                }
+            },
+            "EyeRight_NasalRoot": {
+                "top_left": {
+                    "x": 1707,
+                    "y": 1849
+                },
+                "bottom_right": {
+                    "x": 1798,
+                    "y": 2044
+                }
+            },
+            "EyeLeft_UpperLid": {
+                "top_left": {
+                    "x": 923,
+                    "y": 1622
+                },
+                "bottom_right": {
+                    "x": 1338,
+                    "y": 1863
+                }
+            },
+            "EyeRight_UpperLid": {
+                "top_left": {
+                    "x": 1843,
+                    "y": 1619
+                },
+                "bottom_right": {
+                    "x": 2242,
+                    "y": 1858
+                }
+            },
+            "EyeLeft_LowerLid": {
+                "top_left": {
+                    "x": 943,
+                    "y": 1966
+                },
+                "bottom_right": {
+                    "x": 1285,
+                    "y": 2087
+                }
+            },
+            "EyeRight_LowerLid": {
+                "top_left": {
+                    "x": 1907,
+                    "y": 1957
+                },
+                "bottom_right": {
+                    "x": 2241,
+                    "y": 2082
+                }
+            },
+            "EyeLeft_Lower": {
+                "top_left": {
+                    "x": 943,
+                    "y": 2042
+                },
+                "bottom_right": {
+                    "x": 1386,
+                    "y": 2268
+                }
+            },
+            "EyeRight_Lower": {
+                "top_left": {
+                    "x": 1815,
+                    "y": 2044
+                },
+                "bottom_right": {
+                    "x": 2241,
+                    "y": 2265
+                }
+            },
+            "MouthLeft_Corner": {
+                "top_left": {
+                    "x": 1157,
+                    "y": 2791
+                },
+                "bottom_right": {
+                    "x": 1334,
+                    "y": 2968
+                }
+            },
+            "MouthRight_Corner": {
+                "top_left": {
+                    "x": 1837,
+                    "y": 2801
+                },
+                "bottom_right": {
+                    "x": 2033,
+                    "y": 2968
+                }
+            },
+            "MouthUpper_Pallium": {
+                "top_left": {
+                    "x": 1403,
+                    "y": 2487
+                },
+                "bottom_right": {
+                    "x": 1777,
+                    "y": 2840
+                }
+            },
+            "MouthUpper_Lip": {
+                "top_left": {
+                    "x": 1346,
+                    "y": 2708
+                },
+                "bottom_right": {
+                    "x": 1825,
+                    "y": 2868
+                }
+            },
+            "MouthLower_Lip": {
+                "top_left": {
+                    "x": 1334,
+                    "y": 2799
+                },
+                "bottom_right": {
+                    "x": 1832,
+                    "y": 3030
+                }
+            },
+            "MouthLower_UnderLip": {
+                "top_left": {
+                    "x": 1334,
+                    "y": 2964
+                },
+                "bottom_right": {
+                    "x": 1832,
+                    "y": 3098
+                }
+            },
+            "ChinWhole_Tip": {
+                "top_left": {
+                    "x": 1449,
+                    "y": 3249
+                },
+                "bottom_right": {
+                    "x": 1760,
+                    "y": 3352
+                }
+            },
+            "TempleLeft_Whole": {
+                "top_left": {
+                    "x": 687,
+                    "y": 1425
+                },
+                "bottom_right": {
+                    "x": 835,
+                    "y": 1752
+                }
+            },
+            "TempleRight_Whole": {
+                "top_left": {
+                    "x": 2350,
+                    "y": 1421
+                },
+                "bottom_right": {
+                    "x": 2495,
+                    "y": 1747
+                }
+            }
+        },
+        "image_name": "7ed1b2ea-b633-430e-8664-d7e9401c2a30_ACQ.png",
+        "face_labels": {
+            "EyeLeft_NasalRoot_Dark": "No",
+            "EyeRight_NasalRoot_Dark": "No",
+            "EyeLeft_OuterCorner_Dark": "No",
+            "EyeRight_OuterCorner_Dark": "No",
+            "EyeLeft_InnerCorner_BrightDot": "No",
+            "EyeRight_InnerCorner_BrightDot": "No",
+            "EyeLeft_InnerCorner_Bright": "No",
+            "EyeRight_InnerCorner_Bright": "No",
+            "EyeLeft_Whole_Protruding": "No",
+            "EyeRight_Whole_Protruding": "No",
+            "EyeLeft_UpperLid_Droopy": "No",
+            "EyeRight_UpperLid_Droopy": "No",
+            "EyeLeft_Lower_Pale": "No",
+            "EyeRight_Lower_Pale": "No",
+            "EyeLeft_Lower_Tearsack": "No",
+            "EyeRight_Lower_Tearsack": "No",
+            "EyeLeft_Lower_Dark": "No",
+            "EyeRight_Lower_Dark": "No",
+            "MouthUpper_Lip_BrightLine": "Yes",
+            "MouthLower_Lip_BrightLine": "No",
+            "MouthLeft_Corner_Cracked": "No",
+            "MouthRight_Corner_Cracked": "No",
+            "MouthLeft_Corner_Red": "No",
+            "MouthRight_Corner_Red": "No",
+            "MouthUpper_Pallium_VerticalWrinkles": "No",
+            "MouthUpper_Pallium_Red": "No",
+            "MouthUpper_Pallium_Dark": "No",
+            "MouthLower_UnderLip_Swollen": "No",
+            "MouthUpper_UnderLip_VerticalWrinkles": "No",
+            "ChinWhole_Tip_Red": "No",
+            "ChinWhole_Tip_Dimples": "No",
+            "ForeheadCenter_Lower_VerticalWrinkles": "No",
+            "TempleLeft_Whole_Dented": "No",
+            "TempleRight_Whole_Dented": "No",
+            "CheekRight_Whole_Red": "NotLabeled",
+            "CheekLeft_Whole_Red": "NotLabeled",
+            "MouthWhole_Around_BrownYellow": "NotLabeled",
+            "MouthWhole_Lips_Smooth": "NotLabeled",
+            "MouthWhole_Lips_AlteredStructure": "NotLabeled"
+        },
+        "email": "nana@nana.at",
+        "uid": "nana@nana.at_7ed1b2ea-b633-430e-8664-d7e9401c2a30_ACQ.png"
+    },
+    {
+        "bounding_boxes": {
+            "Mouth_Whole": {
+                "top_left": {
+                    "x": 526,
+                    "y": 1620
+                },
+                "bottom_right": {
+                    "x": 1122,
+                    "y": 1919
+                }
+            },
+            "ForeheadCenter_Lower": {
+                "top_left": {
+                    "x": 680,
+                    "y": 555
+                },
+                "bottom_right": {
+                    "x": 966,
+                    "y": 1041
+                }
+            },
+            "EyeLeft_Whole": {
+                "top_left": {
+                    "x": 360,
+                    "y": 802
+                },
+                "bottom_right": {
+                    "x": 687,
+                    "y": 1079
+                }
+            },
+            "EyeRight_Whole": {
+                "top_left": {
+                    "x": 974,
+                    "y": 797
+                },
+                "bottom_right": {
+                    "x": 1326,
+                    "y": 1096
+                }
+            },
+            "EyeLeft_InnerCorner": {
+                "top_left": {
+                    "x": 607,
+                    "y": 890
+                },
+                "bottom_right": {
+                    "x": 728,
+                    "y": 1052
+                }
+            },
+            "EyeRight_InnerCorner": {
+                "top_left": {
+                    "x": 929,
+                    "y": 889
+                },
+                "bottom_right": {
+                    "x": 1056,
+                    "y": 1054
+                }
+            },
+            "EyeLeft_OuterCorner": {
+                "top_left": {
+                    "x": 309,
+                    "y": 878
+                },
+                "bottom_right": {
+                    "x": 386,
+                    "y": 1044
+                }
+            },
+            "EyeRight_OuterCorner": {
+                "top_left": {
+                    "x": 1296,
+                    "y": 880
+                },
+                "bottom_right": {
+                    "x": 1384,
+                    "y": 1059
+                }
+            },
+            "EyeLeft_NasalRoot": {
+                "top_left": {
+                    "x": 679,
+                    "y": 945
+                },
+                "bottom_right": {
+                    "x": 739,
+                    "y": 1098
+                }
+            },
+            "EyeRight_NasalRoot": {
+                "top_left": {
+                    "x": 903,
+                    "y": 948
+                },
+                "bottom_right": {
+                    "x": 964,
+                    "y": 1104
+                }
+            },
+            "EyeLeft_UpperLid": {
+                "top_left": {
+                    "x": 370,
+                    "y": 735
+                },
+                "bottom_right": {
+                    "x": 651,
+                    "y": 910
+                }
+            },
+            "EyeRight_UpperLid": {
+                "top_left": {
+                    "x": 1008,
+                    "y": 730
+                },
+                "bottom_right": {
+                    "x": 1316,
+                    "y": 915
+                }
+            },
+            "EyeLeft_LowerLid": {
+                "top_left": {
+                    "x": 379,
+                    "y": 1032
+                },
+                "bottom_right": {
+                    "x": 621,
+                    "y": 1115
+                }
+            },
+            "EyeRight_LowerLid": {
+                "top_left": {
+                    "x": 1044,
+                    "y": 1042
+                },
+                "bottom_right": {
+                    "x": 1297,
+                    "y": 1128
+                }
+            },
+            "EyeLeft_Lower": {
+                "top_left": {
+                    "x": 379,
+                    "y": 1098
+                },
+                "bottom_right": {
+                    "x": 677,
+                    "y": 1255
+                }
+            },
+            "EyeRight_Lower": {
+                "top_left": {
+                    "x": 976,
+                    "y": 1104
+                },
+                "bottom_right": {
+                    "x": 1297,
+                    "y": 1268
+                }
+            },
+            "MouthLeft_Corner": {
+                "top_left": {
+                    "x": 526,
+                    "y": 1700
+                },
+                "bottom_right": {
+                    "x": 659,
+                    "y": 1779
+                }
+            },
+            "MouthRight_Corner": {
+                "top_left": {
+                    "x": 990,
+                    "y": 1702
+                },
+                "bottom_right": {
+                    "x": 1122,
+                    "y": 1791
+                }
+            },
+            "MouthUpper_Pallium": {
+                "top_left": {
+                    "x": 692,
+                    "y": 1474
+                },
+                "bottom_right": {
+                    "x": 943,
+                    "y": 1750
+                }
+            },
+            "MouthUpper_Lip": {
+                "top_left": {
+                    "x": 667,
+                    "y": 1652
+                },
+                "bottom_right": {
+                    "x": 982,
+                    "y": 1757
+                }
+            },
+            "MouthLower_Lip": {
+                "top_left": {
+                    "x": 661,
+                    "y": 1704
+                },
+                "bottom_right": {
+                    "x": 996,
+                    "y": 1887
+                }
+            },
+            "MouthLower_UnderLip": {
+                "top_left": {
+                    "x": 661,
+                    "y": 1838
+                },
+                "bottom_right": {
+                    "x": 996,
+                    "y": 1865
+                }
+            },
+            "ChinWhole_Tip": {
+                "top_left": {
+                    "x": 717,
+                    "y": 1975
+                },
+                "bottom_right": {
+                    "x": 928,
+                    "y": 2028
+                }
+            },
+            "TempleLeft_Whole": {
+                "top_left": {
+                    "x": 239,
+                    "y": 562
+                },
+                "bottom_right": {
+                    "x": 315,
+                    "y": 785
+                }
+            },
+            "TempleRight_Whole": {
+                "top_left": {
+                    "x": 1371,
+                    "y": 571
+                },
+                "bottom_right": {
+                    "x": 1481,
+                    "y": 798
+                }
+            }
+        },
+        "image_name": "7bf651ed-d95b-4430-87c3-1babe46cfead_ACQ.png",
+        "face_labels": {
+            "EyeLeft_NasalRoot_Dark": "No",
+            "EyeRight_NasalRoot_Dark": "No",
+            "EyeLeft_OuterCorner_Dark": "No",
+            "EyeRight_OuterCorner_Dark": "No",
+            "EyeLeft_InnerCorner_BrightDot": "No",
+            "EyeRight_InnerCorner_BrightDot": "No",
+            "EyeLeft_InnerCorner_Bright": "Yes",
+            "EyeRight_InnerCorner_Bright": "Yes",
+            "EyeLeft_Whole_Protruding": "No",
+            "EyeRight_Whole_Protruding": "No",
+            "EyeLeft_UpperLid_Droopy": "No",
+            "EyeRight_UpperLid_Droopy": "No",
+            "EyeLeft_Lower_Pale": "No",
+            "EyeRight_Lower_Pale": "No",
+            "EyeLeft_Lower_Tearsack": "No",
+            "EyeRight_Lower_Tearsack": "No",
+            "EyeLeft_Lower_Dark": "Yes",
+            "EyeRight_Lower_Dark": "Yes",
+            "MouthUpper_Lip_BrightLine": "No",
+            "MouthLower_Lip_BrightLine": "No",
+            "MouthLeft_Corner_Cracked": "No",
+            "MouthRight_Corner_Cracked": "No",
+            "MouthLeft_Corner_Red": "No",
+            "MouthRight_Corner_Red": "No",
+            "MouthUpper_Pallium_VerticalWrinkles": "No",
+            "MouthUpper_Pallium_Red": "No",
+            "MouthUpper_Pallium_Dark": "No",
+            "MouthLower_UnderLip_Swollen": "No",
+            "MouthUpper_UnderLip_VerticalWrinkles": "No",
+            "ChinWhole_Tip_Red": "Yes",
+            "ChinWhole_Tip_Dimples": "Yes",
+            "ForeheadCenter_Lower_VerticalWrinkles": "No",
+            "TempleLeft_Whole_Dented": "No",
+            "TempleRight_Whole_Dented": "No",
+            "CheekRight_Whole_Red": "NotLabeled",
+            "CheekLeft_Whole_Red": "NotLabeled",
+            "MouthWhole_Around_BrownYellow": "NotLabeled",
+            "MouthWhole_Lips_Smooth": "NotLabeled",
+            "MouthWhole_Lips_AlteredStructure": "NotLabeled"
+        },
+        "email": "nana@nana.at",
+        "uid": "nana@nana.at_7bf651ed-d95b-4430-87c3-1babe46cfead_ACQ.png"
+    },
+    {
+        "bounding_boxes": {
+            "Mouth_Whole": {
+                "top_left": {
+                    "x": 1017,
+                    "y": 2879
+                },
+                "bottom_right": {
+                    "x": 2173,
+                    "y": 3433
+                }
+            },
+            "ForeheadCenter_Lower": {
+                "top_left": {
+                    "x": 1447,
+                    "y": 1110
+                },
+                "bottom_right": {
+                    "x": 1945,
+                    "y": 1954
+                }
+            },
+            "EyeLeft_Whole": {
+                "top_left": {
+                    "x": 811,
+                    "y": 1477
+                },
+                "bottom_right": {
+                    "x": 1418,
+                    "y": 1975
+                }
+            },
+            "EyeRight_Whole": {
+                "top_left": {
+                    "x": 1931,
+                    "y": 1560
+                },
+                "bottom_right": {
+                    "x": 2560,
+                    "y": 2095
+                }
+            },
+            "EyeLeft_InnerCorner": {
+                "top_left": {
+                    "x": 1268,
+                    "y": 1635
+                },
+                "bottom_right": {
+                    "x": 1502,
+                    "y": 1913
+                }
+            },
+            "EyeRight_InnerCorner": {
+                "top_left": {
+                    "x": 1860,
+                    "y": 1695
+                },
+                "bottom_right": {
+                    "x": 2078,
+                    "y": 1971
+                }
+            },
+            "EyeLeft_OuterCorner": {
+                "top_left": {
+                    "x": 709,
+                    "y": 1605
+                },
+                "bottom_right": {
+                    "x": 886,
+                    "y": 1913
+                }
+            },
+            "EyeRight_OuterCorner": {
+                "top_left": {
+                    "x": 2531,
+                    "y": 1714
+                },
+                "bottom_right": {
+                    "x": 2656,
+                    "y": 2039
+                }
+            },
+            "EyeLeft_NasalRoot": {
+                "top_left": {
+                    "x": 1414,
+                    "y": 1743
+                },
+                "bottom_right": {
+                    "x": 1533,
+                    "y": 1993
+                }
+            },
+            "EyeRight_NasalRoot": {
+                "top_left": {
+                    "x": 1813,
+                    "y": 1767
+                },
+                "bottom_right": {
+                    "x": 1903,
+                    "y": 2038
+                }
+            },
+            "EyeLeft_UpperLid": {
+                "top_left": {
+                    "x": 847,
+                    "y": 1392
+                },
+                "bottom_right": {
+                    "x": 1376,
+                    "y": 1671
+                }
+            },
+            "EyeRight_UpperLid": {
+                "top_left": {
+                    "x": 2013,
+                    "y": 1450
+                },
+                "bottom_right": {
+                    "x": 2563,
+                    "y": 1759
+                }
+            },
+            "EyeLeft_LowerLid": {
+                "top_left": {
+                    "x": 851,
+                    "y": 1879
+                },
+                "bottom_right": {
+                    "x": 1296,
+                    "y": 2033
+                }
+            },
+            "EyeRight_LowerLid": {
+                "top_left": {
+                    "x": 2063,
+                    "y": 1967
+                },
+                "bottom_right": {
+                    "x": 2504,
+                    "y": 2121
+                }
+            },
+            "EyeLeft_Lower": {
+                "top_left": {
+                    "x": 851,
+                    "y": 1993
+                },
+                "bottom_right": {
+                    "x": 1402,
+                    "y": 2288
+                }
+            },
+            "EyeRight_Lower": {
+                "top_left": {
+                    "x": 1929,
+                    "y": 2038
+                },
+                "bottom_right": {
+                    "x": 2504,
+                    "y": 2365
+                }
+            },
+            "MouthLeft_Corner": {
+                "top_left": {
+                    "x": 1017,
+                    "y": 3025
+                },
+                "bottom_right": {
+                    "x": 1216,
+                    "y": 3250
+                }
+            },
+            "MouthRight_Corner": {
+                "top_left": {
+                    "x": 1974,
+                    "y": 3084
+                },
+                "bottom_right": {
+                    "x": 2173,
+                    "y": 3309
+                }
+            },
+            "MouthUpper_Pallium": {
+                "top_left": {
+                    "x": 1306,
+                    "y": 2660
+                },
+                "bottom_right": {
+                    "x": 1879,
+                    "y": 3111
+                }
+            },
+            "MouthUpper_Lip": {
+                "top_left": {
+                    "x": 1237,
+                    "y": 2937
+                },
+                "bottom_right": {
+                    "x": 1950,
+                    "y": 3131
+                }
+            },
+            "MouthLower_Lip": {
+                "top_left": {
+                    "x": 1228,
+                    "y": 3091
+                },
+                "bottom_right": {
+                    "x": 1950,
+                    "y": 3375
+                }
+            },
+            "MouthLower_UnderLip": {
+                "top_left": {
+                    "x": 1228,
+                    "y": 3288
+                },
+                "bottom_right": {
+                    "x": 1950,
+                    "y": 3415
+                }
+            },
+            "ChinWhole_Tip": {
+                "top_left": {
+                    "x": 1359,
+                    "y": 3635
+                },
+                "bottom_right": {
+                    "x": 1779,
+                    "y": 3749
+                }
+            },
+            "TempleLeft_Whole": {
+                "top_left": {
+                    "x": 614,
+                    "y": 1143
+                },
+                "bottom_right": {
+                    "x": 777,
+                    "y": 1545
+                }
+            },
+            "TempleRight_Whole": {
+                "top_left": {
+                    "x": 2671,
+                    "y": 1256
+                },
+                "bottom_right": {
+                    "x": 2833,
+                    "y": 1676
+                }
+            }
+        },
+        "image_name": "1fb6b98a-6100-4f80-b57a-a5c5e13d0c2a_ACQ.png",
+        "face_labels": {
+            "EyeLeft_NasalRoot_Dark": "No",
+            "EyeRight_NasalRoot_Dark": "No",
+            "EyeLeft_OuterCorner_Dark": "No",
+            "EyeRight_OuterCorner_Dark": "No",
+            "EyeLeft_InnerCorner_BrightDot": "Yes",
+            "EyeRight_InnerCorner_BrightDot": "No",
+            "EyeLeft_InnerCorner_Bright": "Yes",
+            "EyeRight_InnerCorner_Bright": "Yes",
+            "EyeLeft_Whole_Protruding": "No",
+            "EyeRight_Whole_Protruding": "No",
+            "EyeLeft_UpperLid_Droopy": "No",
+            "EyeRight_UpperLid_Droopy": "No",
+            "EyeLeft_Lower_Pale": "No",
+            "EyeRight_Lower_Pale": "No",
+            "EyeLeft_Lower_Tearsack": "No",
+            "EyeRight_Lower_Tearsack": "No",
+            "EyeLeft_Lower_Dark": "No",
+            "EyeRight_Lower_Dark": "No",
+            "MouthUpper_Lip_BrightLine": "No",
+            "MouthLower_Lip_BrightLine": "No",
+            "MouthLeft_Corner_Cracked": "No",
+            "MouthRight_Corner_Cracked": "No",
+            "MouthLeft_Corner_Red": "No",
+            "MouthRight_Corner_Red": "No",
+            "MouthUpper_Pallium_VerticalWrinkles": "No",
+            "MouthUpper_Pallium_Red": "No",
+            "MouthUpper_Pallium_Dark": "No",
+            "MouthLower_UnderLip_Swollen": "No",
+            "MouthUpper_UnderLip_VerticalWrinkles": "No",
+            "ChinWhole_Tip_Red": "No",
+            "ChinWhole_Tip_Dimples": "No",
+            "ForeheadCenter_Lower_VerticalWrinkles": "No",
+            "TempleLeft_Whole_Dented": "No",
+            "TempleRight_Whole_Dented": "No",
+            "CheekRight_Whole_Red": "NotLabeled",
+            "CheekLeft_Whole_Red": "NotLabeled",
+            "MouthWhole_Around_BrownYellow": "NotLabeled",
+            "MouthWhole_Lips_Smooth": "NotLabeled",
+            "MouthWhole_Lips_AlteredStructure": "NotLabeled"
+        },
+        "email": "nana@nana.at",
+        "uid": "nana@nana.at_1fb6b98a-6100-4f80-b57a-a5c5e13d0c2a_ACQ.png"
+    },
+    {
+        "bounding_boxes": {
+            "Mouth_Whole": {
+                "top_left": {
+                    "x": 683,
+                    "y": 1540
+                },
+                "bottom_right": {
+                    "x": 1188,
+                    "y": 1773
+                }
+            },
+            "ForeheadCenter_Lower": {
+                "top_left": {
+                    "x": 861,
+                    "y": 718
+                },
+                "bottom_right": {
+                    "x": 1067,
+                    "y": 1103
+                }
+            },
+            "EyeLeft_Whole": {
+                "top_left": {
+                    "x": 570,
+                    "y": 903
+                },
+                "bottom_right": {
+                    "x": 845,
+                    "y": 1118
+                }
+            },
+            "EyeRight_Whole": {
+                "top_left": {
+                    "x": 1081,
+                    "y": 928
+                },
+                "bottom_right": {
+                    "x": 1357,
+                    "y": 1149
+                }
+            },
+            "EyeLeft_InnerCorner": {
+                "top_left": {
+                    "x": 775,
+                    "y": 969
+                },
+                "bottom_right": {
+                    "x": 883,
+                    "y": 1090
+                }
+            },
+            "EyeRight_InnerCorner": {
+                "top_left": {
+                    "x": 1045,
+                    "y": 979
+                },
+                "bottom_right": {
+                    "x": 1147,
+                    "y": 1096
+                }
+            },
+            "EyeLeft_OuterCorner": {
+                "top_left": {
+                    "x": 522,
+                    "y": 964
+                },
+                "bottom_right": {
+                    "x": 609,
+                    "y": 1094
+                }
+            },
+            "EyeRight_OuterCorner": {
+                "top_left": {
+                    "x": 1330,
+                    "y": 992
+                },
+                "bottom_right": {
+                    "x": 1404,
+                    "y": 1126
+                }
+            },
+            "EyeLeft_NasalRoot": {
+                "top_left": {
+                    "x": 846,
+                    "y": 1003
+                },
+                "bottom_right": {
+                    "x": 899,
+                    "y": 1119
+                }
+            },
+            "EyeRight_NasalRoot": {
+                "top_left": {
+                    "x": 1023,
+                    "y": 1009
+                },
+                "bottom_right": {
+                    "x": 1068,
+                    "y": 1126
+                }
+            },
+            "EyeLeft_UpperLid": {
+                "top_left": {
+                    "x": 590,
+                    "y": 856
+                },
+                "bottom_right": {
+                    "x": 826,
+                    "y": 993
+                }
+            },
+            "EyeRight_UpperLid": {
+                "top_left": {
+                    "x": 1105,
+                    "y": 882
+                },
+                "bottom_right": {
+                    "x": 1348,
+                    "y": 1011
+                }
+            },
+            "EyeLeft_LowerLid": {
+                "top_left": {
+                    "x": 589,
+                    "y": 1077
+                },
+                "bottom_right": {
+                    "x": 787,
+                    "y": 1143
+                }
+            },
+            "EyeRight_LowerLid": {
+                "top_left": {
+                    "x": 1138,
+                    "y": 1088
+                },
+                "bottom_right": {
+                    "x": 1333,
+                    "y": 1160
+                }
+            },
+            "EyeLeft_Lower": {
+                "top_left": {
+                    "x": 589,
+                    "y": 1119
+                },
+                "bottom_right": {
+                    "x": 838,
+                    "y": 1245
+                }
+            },
+            "EyeRight_Lower": {
+                "top_left": {
+                    "x": 1081,
+                    "y": 1126
+                },
+                "bottom_right": {
+                    "x": 1333,
+                    "y": 1269
+                }
+            },
+            "MouthLeft_Corner": {
+                "top_left": {
+                    "x": 683,
+                    "y": 1608
+                },
+                "bottom_right": {
+                    "x": 799,
+                    "y": 1681
+                }
+            },
+            "MouthRight_Corner": {
+                "top_left": {
+                    "x": 1080,
+                    "y": 1611
+                },
+                "bottom_right": {
+                    "x": 1188,
+                    "y": 1700
+                }
+            },
+            "MouthUpper_Pallium": {
+                "top_left": {
+                    "x": 835,
+                    "y": 1390
+                },
+                "bottom_right": {
+                    "x": 1044,
+                    "y": 1647
+                }
+            },
+            "MouthUpper_Lip": {
+                "top_left": {
+                    "x": 804,
+                    "y": 1567
+                },
+                "bottom_right": {
+                    "x": 1073,
+                    "y": 1654
+                }
+            },
+            "MouthLower_Lip": {
+                "top_left": {
+                    "x": 798,
+                    "y": 1609
+                },
+                "bottom_right": {
+                    "x": 1078,
+                    "y": 1746
+                }
+            },
+            "MouthLower_UnderLip": {
+                "top_left": {
+                    "x": 798,
+                    "y": 1706
+                },
+                "bottom_right": {
+                    "x": 1078,
+                    "y": 1760
+                }
+            },
+            "ChinWhole_Tip": {
+                "top_left": {
+                    "x": 840,
+                    "y": 1858
+                },
+                "bottom_right": {
+                    "x": 1024,
+                    "y": 1919
+                }
+            },
+            "TempleLeft_Whole": {
+                "top_left": {
+                    "x": 468,
+                    "y": 728
+                },
+                "bottom_right": {
+                    "x": 555,
+                    "y": 924
+                }
+            },
+            "TempleRight_Whole": {
+                "top_left": {
+                    "x": 1406,
+                    "y": 765
+                },
+                "bottom_right": {
+                    "x": 1489,
+                    "y": 966
+                }
+            }
+        },
+        "image_name": "3e70fbbc-03f9-4ba5-b9d3-f411314b596b_ACQ.png",
+        "face_labels": {
+            "EyeLeft_NasalRoot_Dark": "Yes",
+            "EyeRight_NasalRoot_Dark": "Yes",
+            "EyeLeft_OuterCorner_Dark": "No",
+            "EyeRight_OuterCorner_Dark": "No",
+            "EyeLeft_InnerCorner_BrightDot": "No",
+            "EyeRight_InnerCorner_BrightDot": "No",
+            "EyeLeft_InnerCorner_Bright": "Yes",
+            "EyeRight_InnerCorner_Bright": "Yes",
+            "EyeLeft_Whole_Protruding": "No",
+            "EyeRight_Whole_Protruding": "No",
+            "EyeLeft_UpperLid_Droopy": "Yes",
+            "EyeRight_UpperLid_Droopy": "No",
+            "EyeLeft_Lower_Pale": "No",
+            "EyeRight_Lower_Pale": "No",
+            "EyeLeft_Lower_Tearsack": "No",
+            "EyeRight_Lower_Tearsack": "No",
+            "EyeLeft_Lower_Dark": "No",
+            "EyeRight_Lower_Dark": "No",
+            "MouthUpper_Lip_BrightLine": "No",
+            "MouthLower_Lip_BrightLine": "No",
+            "MouthLeft_Corner_Cracked": "No",
+            "MouthRight_Corner_Cracked": "No",
+            "MouthLeft_Corner_Red": "No",
+            "MouthRight_Corner_Red": "No",
+            "MouthUpper_Pallium_VerticalWrinkles": "No",
+            "MouthUpper_Pallium_Red": "No",
+            "MouthUpper_Pallium_Dark": "No",
+            "MouthLower_UnderLip_Swollen": "No",
+            "MouthUpper_UnderLip_VerticalWrinkles": "No",
+            "ChinWhole_Tip_Red": "Yes",
+            "ChinWhole_Tip_Dimples": "No",
+            "ForeheadCenter_Lower_VerticalWrinkles": "No",
+            "TempleLeft_Whole_Dented": "No",
+            "TempleRight_Whole_Dented": "No",
+            "CheekRight_Whole_Red": "NotLabeled",
+            "CheekLeft_Whole_Red": "NotLabeled",
+            "MouthWhole_Around_BrownYellow": "NotLabeled",
+            "MouthWhole_Lips_Smooth": "NotLabeled",
+            "MouthWhole_Lips_AlteredStructure": "NotLabeled"
+        },
+        "email": "nana@nana.at",
+        "uid": "nana@nana.at_3e70fbbc-03f9-4ba5-b9d3-f411314b596b_ACQ.png"
+    },
+    {
+        "bounding_boxes": {
+            "Mouth_Whole": {
+                "top_left": {
+                    "x": 371,
+                    "y": 695
+                },
+                "bottom_right": {
+                    "x": 637,
+                    "y": 796
+                }
+            },
+            "ForeheadCenter_Lower": {
+                "top_left": {
+                    "x": 474,
+                    "y": 354
+                },
+                "bottom_right": {
+                    "x": 578,
+                    "y": 531
+                }
+            },
+            "EyeLeft_Whole": {
+                "top_left": {
+                    "x": 302,
+                    "y": 430
+                },
+                "bottom_right": {
+                    "x": 456,
+                    "y": 524
+                }
+            },
+            "EyeRight_Whole": {
+                "top_left": {
+                    "x": 579,
+                    "y": 434
+                },
+                "bottom_right": {
+                    "x": 709,
+                    "y": 525
+                }
+            },
+            "EyeLeft_InnerCorner": {
+                "top_left": {
+                    "x": 420,
+                    "y": 461
+                },
+                "bottom_right": {
+                    "x": 478,
+                    "y": 515
+                }
+            },
+            "EyeRight_InnerCorner": {
+                "top_left": {
+                    "x": 561,
+                    "y": 462
+                },
+                "bottom_right": {
+                    "x": 611,
+                    "y": 514
+                }
+            },
+            "EyeLeft_OuterCorner": {
+                "top_left": {
+                    "x": 272,
+                    "y": 455
+                },
+                "bottom_right": {
+                    "x": 332,
+                    "y": 512
+                }
+            },
+            "EyeRight_OuterCorner": {
+                "top_left": {
+                    "x": 694,
+                    "y": 457
+                },
+                "bottom_right": {
+                    "x": 732,
+                    "y": 513
+                }
+            },
+            "EyeLeft_NasalRoot": {
+                "top_left": {
+                    "x": 460,
+                    "y": 484
+                },
+                "bottom_right": {
+                    "x": 491,
+                    "y": 531
+                }
+            },
+            "EyeRight_NasalRoot": {
+                "top_left": {
+                    "x": 556,
+                    "y": 483
+                },
+                "bottom_right": {
+                    "x": 576,
+                    "y": 529
+                }
+            },
+            "EyeLeft_UpperLid": {
+                "top_left": {
+                    "x": 321,
+                    "y": 415
+                },
+                "bottom_right": {
+                    "x": 450,
+                    "y": 468
+                }
+            },
+            "EyeRight_UpperLid": {
+                "top_left": {
+                    "x": 592,
+                    "y": 419
+                },
+                "bottom_right": {
+                    "x": 701,
+                    "y": 469
+                }
+            },
+            "EyeLeft_LowerLid": {
+                "top_left": {
+                    "x": 317,
+                    "y": 505
+                },
+                "bottom_right": {
+                    "x": 427,
+                    "y": 536
+                }
+            },
+            "EyeRight_LowerLid": {
+                "top_left": {
+                    "x": 604,
+                    "y": 507
+                },
+                "bottom_right": {
+                    "x": 698,
+                    "y": 537
+                }
+            },
+            "EyeLeft_Lower": {
+                "top_left": {
+                    "x": 317,
+                    "y": 531
+                },
+                "bottom_right": {
+                    "x": 454,
+                    "y": 583
+                }
+            },
+            "EyeRight_Lower": {
+                "top_left": {
+                    "x": 580,
+                    "y": 529
+                },
+                "bottom_right": {
+                    "x": 698,
+                    "y": 584
+                }
+            },
+            "MouthLeft_Corner": {
+                "top_left": {
+                    "x": 371,
+                    "y": 726
+                },
+                "bottom_right": {
+                    "x": 432,
+                    "y": 767
+                }
+            },
+            "MouthRight_Corner": {
+                "top_left": {
+                    "x": 593,
+                    "y": 721
+                },
+                "bottom_right": {
+                    "x": 637,
+                    "y": 764
+                }
+            },
+            "MouthUpper_Pallium": {
+                "top_left": {
+                    "x": 455,
+                    "y": 652
+                },
+                "bottom_right": {
+                    "x": 576,
+                    "y": 742
+                }
+            },
+            "MouthUpper_Lip": {
+                "top_left": {
+                    "x": 435,
+                    "y": 706
+                },
+                "bottom_right": {
+                    "x": 589,
+                    "y": 746
+                }
+            },
+            "MouthLower_Lip": {
+                "top_left": {
+                    "x": 432,
+                    "y": 719
+                },
+                "bottom_right": {
+                    "x": 591,
+                    "y": 784
+                }
+            },
+            "MouthLower_UnderLip": {
+                "top_left": {
+                    "x": 432,
+                    "y": 766
+                },
+                "bottom_right": {
+                    "x": 591,
+                    "y": 806
+                }
+            },
+            "ChinWhole_Tip": {
+                "top_left": {
+                    "x": 459,
+                    "y": 848
+                },
+                "bottom_right": {
+                    "x": 550,
+                    "y": 875
+                }
+            },
+            "TempleLeft_Whole": {
+                "top_left": {
+                    "x": 208,
+                    "y": 341
+                },
+                "bottom_right": {
+                    "x": 282,
+                    "y": 425
+                }
+            },
+            "TempleRight_Whole": {
+                "top_left": {
+                    "x": 735,
+                    "y": 353
+                },
+                "bottom_right": {
+                    "x": 763,
+                    "y": 434
+                }
+            }
+        },
+        "image_name": "00002_NVDE.png",
+        "face_labels": {
+            "EyeLeft_Lower_Pale": "Undef",
+            "ChinWhole_Tip_Red": "Undef",
+            "EyeLeft_Lower_Dark": "Undef",
+            "EyeRight_NasalRoot_Dark": "Undef",
+            "ChinWhole_Tip_Dimples": "Undef",
+            "MouthRight_Corner_Red": "Undef",
+            "EyeRight_Lower_Dark": "Undef",
+            "MouthLower_UnderLip_Swollen": "Undef",
+            "EyeLeft_InnerCorner_Bright": "Undef",
+            "EyeRight_InnerCorner_BrightDot": "Undef",
+            "EyeLeft_NasalRoot_Dark": "Undef",
+            "MouthUpper_Lip_BrightLine": "Undef",
+            "MouthUpper_Pallium_Dark": "Undef",
+            "MouthUpper_Pallium_Red": "Undef",
+            "EyeRight_Lower_Tearsack": "Undef",
+            "MouthLeft_Corner_Red": "Undef",
+            "EyeLeft_UpperLid_Droopy": "Undef",
+            "EyeLeft_Lower_Tearsack": "Undef",
+            "MouthUpper_UnderLip_VerticalWrinkles": "Undef",
+            "MouthLeft_Corner_Cracked": "Undef",
+            "EyeRight_Lower_Pale": "Undef",
+            "EyeLeft_OuterCorner_Dark": "Undef",
+            "MouthUpper_Pallium_VerticalWrinkles": "Undef",
+            "EyeRight_OuterCorner_Dark": "Undef",
+            "EyeRight_UpperLid_Droopy": "Undef",
+            "EyeRight_InnerCorner_Bright": "Undef",
+            "EyeLeft_Whole_Protruding": "Undef",
+            "ForeheadCenter_Lower_VerticalWrinkles": "Undef",
+            "TempleRight_Whole_Dented": "Undef",
+            "TempleLeft_Whole_Dented": "Undef",
+            "MouthLower_Lip_BrightLine": "Undef",
+            "MouthRight_Corner_Cracked": "Undef",
+            "EyeLeft_InnerCorner_BrightDot": "NotLabeled",
+            "EyeRight_Whole_Protruding": "NotLabeled",
+            "CheekRight_Whole_Red": "NotLabeled",
+            "CheekLeft_Whole_Red": "NotLabeled",
+            "MouthWhole_Around_BrownYellow": "NotLabeled",
+            "MouthWhole_Lips_Smooth": "NotLabeled",
+            "MouthWhole_Lips_AlteredStructure": "NotLabeled"
+        },
+        "email": "unknown",
+        "uid": "unknown_00002_NVDE.png"
+    },
+    {
+        "bounding_boxes": {
+            "Mouth_Whole": {
+                "top_left": {
+                    "x": 294,
+                    "y": 489
+                },
+                "bottom_right": {
+                    "x": 443,
+                    "y": 552
+                }
+            },
+            "ForeheadCenter_Lower": {
+                "top_left": {
+                    "x": 354,
+                    "y": 296
+                },
+                "bottom_right": {
+                    "x": 417,
+                    "y": 395
+                }
+            },
+            "EyeLeft_Whole": {
+                "top_left": {
+                    "x": 267,
+                    "y": 337
+                },
+                "bottom_right": {
+                    "x": 343,
+                    "y": 388
+                }
+            },
+            "EyeRight_Whole": {
+                "top_left": {
+                    "x": 418,
+                    "y": 347
+                },
+                "bottom_right": {
+                    "x": 488,
+                    "y": 400
+                }
+            },
+            "EyeLeft_InnerCorner": {
+                "top_left": {
+                    "x": 326,
+                    "y": 356
+                },
+                "bottom_right": {
+                    "x": 356,
+                    "y": 384
+                }
+            },
+            "EyeRight_InnerCorner": {
+                "top_left": {
+                    "x": 408,
+                    "y": 360
+                },
+                "bottom_right": {
+                    "x": 434,
+                    "y": 387
+                }
+            },
+            "EyeLeft_OuterCorner": {
+                "top_left": {
+                    "x": 252,
+                    "y": 351
+                },
+                "bottom_right": {
+                    "x": 281,
+                    "y": 381
+                }
+            },
+            "EyeRight_OuterCorner": {
+                "top_left": {
+                    "x": 483,
+                    "y": 362
+                },
+                "bottom_right": {
+                    "x": 500,
+                    "y": 394
+                }
+            },
+            "EyeLeft_NasalRoot": {
+                "top_left": {
+                    "x": 348,
+                    "y": 368
+                },
+                "bottom_right": {
+                    "x": 364,
+                    "y": 394
+                }
+            },
+            "EyeRight_NasalRoot": {
+                "top_left": {
+                    "x": 403,
+                    "y": 369
+                },
+                "bottom_right": {
+                    "x": 412,
+                    "y": 397
+                }
+            },
+            "EyeLeft_UpperLid": {
+                "top_left": {
+                    "x": 274,
+                    "y": 327
+                },
+                "bottom_right": {
+                    "x": 341,
+                    "y": 360
+                }
+            },
+            "EyeRight_UpperLid": {
+                "top_left": {
+                    "x": 426,
+                    "y": 337
+                },
+                "bottom_right": {
+                    "x": 487,
+                    "y": 366
+                }
+            },
+            "EyeLeft_LowerLid": {
+                "top_left": {
+                    "x": 274,
+                    "y": 377
+                },
+                "bottom_right": {
+                    "x": 329,
+                    "y": 395
+                }
+            },
+            "EyeRight_LowerLid": {
+                "top_left": {
+                    "x": 432,
+                    "y": 381
+                },
+                "bottom_right": {
+                    "x": 481,
+                    "y": 402
+                }
+            },
+            "EyeLeft_Lower": {
+                "top_left": {
+                    "x": 274,
+                    "y": 394
+                },
+                "bottom_right": {
+                    "x": 344,
+                    "y": 421
+                }
+            },
+            "EyeRight_Lower": {
+                "top_left": {
+                    "x": 416,
+                    "y": 397
+                },
+                "bottom_right": {
+                    "x": 481,
+                    "y": 433
+                }
+            },
+            "MouthLeft_Corner": {
+                "top_left": {
+                    "x": 294,
+                    "y": 500
+                },
+                "bottom_right": {
+                    "x": 326,
+                    "y": 526
+                }
+            },
+            "MouthRight_Corner": {
+                "top_left": {
+                    "x": 413,
+                    "y": 506
+                },
+                "bottom_right": {
+                    "x": 443,
+                    "y": 533
+                }
+            },
+            "MouthUpper_Pallium": {
+                "top_left": {
+                    "x": 337,
+                    "y": 470
+                },
+                "bottom_right": {
+                    "x": 404,
+                    "y": 517
+                }
+            },
+            "MouthUpper_Lip": {
+                "top_left": {
+                    "x": 328,
+                    "y": 496
+                },
+                "bottom_right": {
+                    "x": 411,
+                    "y": 513
+                }
+            },
+            "MouthLower_Lip": {
+                "top_left": {
+                    "x": 327,
+                    "y": 507
+                },
+                "bottom_right": {
+                    "x": 411,
+                    "y": 545
+                }
+            },
+            "MouthLower_UnderLip": {
+                "top_left": {
+                    "x": 327,
+                    "y": 535
+                },
+                "bottom_right": {
+                    "x": 411,
+                    "y": 552
+                }
+            },
+            "ChinWhole_Tip": {
+                "top_left": {
+                    "x": 339,
+                    "y": 585
+                },
+                "bottom_right": {
+                    "x": 390,
+                    "y": 601
+                }
+            },
+            "TempleLeft_Whole": {
+                "top_left": {
+                    "x": 230,
+                    "y": 279
+                },
+                "bottom_right": {
+                    "x": 262,
+                    "y": 323
+                }
+            },
+            "TempleRight_Whole": {
+                "top_left": {
+                    "x": 508,
+                    "y": 299
+                },
+                "bottom_right": {
+                    "x": 526,
+                    "y": 346
+                }
+            }
+        },
+        "image_name": "1d60ae09-5a9f-4661-a749-d198fe4ef3c4_ACQ.png",
+        "face_labels": {
+            "EyeLeft_NasalRoot_Dark": "No",
+            "EyeRight_NasalRoot_Dark": "No",
+            "EyeLeft_OuterCorner_Dark": "No",
+            "EyeRight_OuterCorner_Dark": "No",
+            "EyeLeft_InnerCorner_BrightDot": "No",
+            "EyeRight_InnerCorner_BrightDot": "No",
+            "EyeLeft_InnerCorner_Bright": "No",
+            "EyeRight_InnerCorner_Bright": "No",
+            "EyeLeft_Whole_Protruding": "No",
+            "EyeRight_Whole_Protruding": "No",
+            "EyeLeft_UpperLid_Droopy": "Yes",
+            "EyeRight_UpperLid_Droopy": "Yes",
+            "EyeLeft_Lower_Pale": "No",
+            "EyeRight_Lower_Pale": "No",
+            "EyeLeft_Lower_Tearsack": "No",
+            "EyeRight_Lower_Tearsack": "No",
+            "EyeLeft_Lower_Dark": "No",
+            "EyeRight_Lower_Dark": "No",
+            "MouthUpper_Lip_BrightLine": "No",
+            "MouthLower_Lip_BrightLine": "No",
+            "MouthLeft_Corner_Cracked": "No",
+            "MouthRight_Corner_Cracked": "No",
+            "MouthLeft_Corner_Red": "No",
+            "MouthRight_Corner_Red": "No",
+            "MouthUpper_Pallium_VerticalWrinkles": "No",
+            "MouthUpper_Pallium_Red": "No",
+            "MouthUpper_Pallium_Dark": "No",
+            "MouthLower_UnderLip_Swollen": "No",
+            "MouthUpper_UnderLip_VerticalWrinkles": "No",
+            "ChinWhole_Tip_Red": "No",
+            "ChinWhole_Tip_Dimples": "No",
+            "ForeheadCenter_Lower_VerticalWrinkles": "No",
+            "TempleLeft_Whole_Dented": "No",
+            "TempleRight_Whole_Dented": "No",
+            "CheekRight_Whole_Red": "NotLabeled",
+            "CheekLeft_Whole_Red": "NotLabeled",
+            "MouthWhole_Around_BrownYellow": "NotLabeled",
+            "MouthWhole_Lips_Smooth": "NotLabeled",
+            "MouthWhole_Lips_AlteredStructure": "NotLabeled"
+        },
+        "email": "nana@nana.at",
+        "uid": "nana@nana.at_1d60ae09-5a9f-4661-a749-d198fe4ef3c4_ACQ.png"
+    },
+    {
+        "bounding_boxes": {
+            "Mouth_Whole": {
+                "top_left": {
+                    "x": 393,
+                    "y": 853
+                },
+                "bottom_right": {
+                    "x": 691,
+                    "y": 983
+                }
+            },
+            "ForeheadCenter_Lower": {
+                "top_left": {
+                    "x": 457,
+                    "y": 437
+                },
+                "bottom_right": {
+                    "x": 575,
+                    "y": 661
+                }
+            },
+            "EyeLeft_Whole": {
+                "top_left": {
+                    "x": 314,
+                    "y": 559
+                },
+                "bottom_right": {
+                    "x": 456,
+                    "y": 673
+                }
+            },
+            "EyeRight_Whole": {
+                "top_left": {
+                    "x": 596,
+                    "y": 543
+                },
+                "bottom_right": {
+                    "x": 761,
+                    "y": 652
+                }
+            },
+            "EyeLeft_InnerCorner": {
+                "top_left": {
+                    "x": 420,
+                    "y": 584
+                },
+                "bottom_right": {
+                    "x": 475,
+                    "y": 639
+                }
+            },
+            "EyeRight_InnerCorner": {
+                "top_left": {
+                    "x": 570,
+                    "y": 574
+                },
+                "bottom_right": {
+                    "x": 635,
+                    "y": 630
+                }
+            },
+            "EyeLeft_OuterCorner": {
+                "top_left": {
+                    "x": 293,
+                    "y": 593
+                },
+                "bottom_right": {
+                    "x": 324,
+                    "y": 663
+                }
+            },
+            "EyeRight_OuterCorner": {
+                "top_left": {
+                    "x": 738,
+                    "y": 573
+                },
+                "bottom_right": {
+                    "x": 791,
+                    "y": 641
+                }
+            },
+            "EyeLeft_NasalRoot": {
+                "top_left": {
+                    "x": 465,
+                    "y": 593
+                },
+                "bottom_right": {
+                    "x": 485,
+                    "y": 650
+                }
+            },
+            "EyeRight_NasalRoot": {
+                "top_left": {
+                    "x": 552,
+                    "y": 591
+                },
+                "bottom_right": {
+                    "x": 584,
+                    "y": 646
+                }
+            },
+            "EyeLeft_UpperLid": {
+                "top_left": {
+                    "x": 315,
+                    "y": 536
+                },
+                "bottom_right": {
+                    "x": 440,
+                    "y": 603
+                }
+            },
+            "EyeRight_UpperLid": {
+                "top_left": {
+                    "x": 603,
+                    "y": 523
+                },
+                "bottom_right": {
+                    "x": 751,
+                    "y": 587
+                }
+            },
+            "EyeLeft_LowerLid": {
+                "top_left": {
+                    "x": 327,
+                    "y": 637
+                },
+                "bottom_right": {
+                    "x": 425,
+                    "y": 673
+                }
+            },
+            "EyeRight_LowerLid": {
+                "top_left": {
+                    "x": 630,
+                    "y": 625
+                },
+                "bottom_right": {
+                    "x": 745,
+                    "y": 660
+                }
+            },
+            "EyeLeft_Lower": {
+                "top_left": {
+                    "x": 327,
+                    "y": 650
+                },
+                "bottom_right": {
+                    "x": 458,
+                    "y": 731
+                }
+            },
+            "EyeRight_Lower": {
+                "top_left": {
+                    "x": 594,
+                    "y": 646
+                },
+                "bottom_right": {
+                    "x": 745,
+                    "y": 715
+                }
+            },
+            "MouthLeft_Corner": {
+                "top_left": {
+                    "x": 393,
+                    "y": 907
+                },
+                "bottom_right": {
+                    "x": 452,
+                    "y": 957
+                }
+            },
+            "MouthRight_Corner": {
+                "top_left": {
+                    "x": 627,
+                    "y": 898
+                },
+                "bottom_right": {
+                    "x": 691,
+                    "y": 949
+                }
+            },
+            "MouthUpper_Pallium": {
+                "top_left": {
+                    "x": 473,
+                    "y": 784
+                },
+                "bottom_right": {
+                    "x": 602,
+                    "y": 912
+                }
+            },
+            "MouthUpper_Lip": {
+                "top_left": {
+                    "x": 456,
+                    "y": 868
+                },
+                "bottom_right": {
+                    "x": 623,
+                    "y": 933
+                }
+            },
+            "MouthLower_Lip": {
+                "top_left": {
+                    "x": 457,
+                    "y": 898
+                },
+                "bottom_right": {
+                    "x": 625,
+                    "y": 968
+                }
+            },
+            "MouthLower_UnderLip": {
+                "top_left": {
+                    "x": 457,
+                    "y": 946
+                },
+                "bottom_right": {
+                    "x": 625,
+                    "y": 1004
+                }
+            },
+            "ChinWhole_Tip": {
+                "top_left": {
+                    "x": 484,
+                    "y": 1054
+                },
+                "bottom_right": {
+                    "x": 597,
+                    "y": 1108
+                }
+            },
+            "TempleLeft_Whole": {
+                "top_left": {
+                    "x": 258,
+                    "y": 490
+                },
+                "bottom_right": {
+                    "x": 290,
+                    "y": 602
+                }
+            },
+            "TempleRight_Whole": {
+                "top_left": {
+                    "x": 777,
+                    "y": 456
+                },
+                "bottom_right": {
+                    "x": 859,
+                    "y": 567
+                }
+            }
+        },
+        "image_name": "3b42b9e7-0c6e-4cfc-8ada-24fa46b89858_ACQ.png",
+        "face_labels": {
+            "EyeLeft_NasalRoot_Dark": "No",
+            "EyeRight_NasalRoot_Dark": "No",
+            "EyeLeft_OuterCorner_Dark": "No",
+            "EyeRight_OuterCorner_Dark": "No",
+            "EyeLeft_InnerCorner_BrightDot": "Yes",
+            "EyeRight_InnerCorner_BrightDot": "Yes",
+            "EyeLeft_InnerCorner_Bright": "No",
+            "EyeRight_InnerCorner_Bright": "No",
+            "EyeLeft_Whole_Protruding": "No",
+            "EyeRight_Whole_Protruding": "No",
+            "EyeLeft_UpperLid_Droopy": "No",
+            "EyeRight_UpperLid_Droopy": "No",
+            "EyeLeft_Lower_Pale": "No",
+            "EyeRight_Lower_Pale": "No",
+            "EyeLeft_Lower_Tearsack": "No",
+            "EyeRight_Lower_Tearsack": "No",
+            "EyeLeft_Lower_Dark": "No",
+            "EyeRight_Lower_Dark": "No",
+            "MouthUpper_Lip_BrightLine": "Yes",
+            "MouthLower_Lip_BrightLine": "Yes",
+            "MouthLeft_Corner_Cracked": "No",
+            "MouthRight_Corner_Cracked": "No",
+            "MouthLeft_Corner_Red": "No",
+            "MouthRight_Corner_Red": "No",
+            "MouthUpper_Pallium_VerticalWrinkles": "No",
+            "MouthUpper_Pallium_Red": "No",
+            "MouthUpper_Pallium_Dark": "No",
+            "MouthLower_UnderLip_Swollen": "No",
+            "MouthUpper_UnderLip_VerticalWrinkles": "No",
+            "ChinWhole_Tip_Red": "No",
+            "ChinWhole_Tip_Dimples": "No",
+            "ForeheadCenter_Lower_VerticalWrinkles": "No",
+            "TempleLeft_Whole_Dented": "No",
+            "TempleRight_Whole_Dented": "No",
+            "CheekRight_Whole_Red": "NotLabeled",
+            "CheekLeft_Whole_Red": "NotLabeled",
+            "MouthWhole_Around_BrownYellow": "NotLabeled",
+            "MouthWhole_Lips_Smooth": "NotLabeled",
+            "MouthWhole_Lips_AlteredStructure": "NotLabeled"
+        },
+        "email": "nana@nana.at",
+        "uid": "nana@nana.at_3b42b9e7-0c6e-4cfc-8ada-24fa46b89858_ACQ.png"
+    },
+    {
+        "bounding_boxes": {
+            "Mouth_Whole": {
+                "top_left": {
+                    "x": 165,
+                    "y": 383
+                },
+                "bottom_right": {
+                    "x": 287,
+                    "y": 432
+                }
+            },
+            "ForeheadCenter_Lower": {
+                "top_left": {
+                    "x": 193,
+                    "y": 212
+                },
+                "bottom_right": {
+                    "x": 237,
+                    "y": 305
+                }
+            },
+            "EyeLeft_Whole": {
+                "top_left": {
+                    "x": 126,
+                    "y": 261
+                },
+                "bottom_right": {
+                    "x": 190,
+                    "y": 306
+                }
+            },
+            "EyeRight_Whole": {
+                "top_left": {
+                    "x": 246,
+                    "y": 254
+                },
+                "bottom_right": {
+                    "x": 311,
+                    "y": 295
+                }
+            },
+            "EyeLeft_InnerCorner": {
+                "top_left": {
+                    "x": 175,
+                    "y": 269
+                },
+                "bottom_right": {
+                    "x": 199,
+                    "y": 292
+                }
+            },
+            "EyeRight_InnerCorner": {
+                "top_left": {
+                    "x": 235,
+                    "y": 265
+                },
+                "bottom_right": {
+                    "x": 262,
+                    "y": 287
+                }
+            },
+            "EyeLeft_OuterCorner": {
+                "top_left": {
+                    "x": 114,
+                    "y": 274
+                },
+                "bottom_right": {
+                    "x": 134,
+                    "y": 301
+                }
+            },
+            "EyeRight_OuterCorner": {
+                "top_left": {
+                    "x": 300,
+                    "y": 263
+                },
+                "bottom_right": {
+                    "x": 323,
+                    "y": 289
+                }
+            },
+            "EyeLeft_NasalRoot": {
+                "top_left": {
+                    "x": 193,
+                    "y": 275
+                },
+                "bottom_right": {
+                    "x": 202,
+                    "y": 299
+                }
+            },
+            "EyeRight_NasalRoot": {
+                "top_left": {
+                    "x": 230,
+                    "y": 275
+                },
+                "bottom_right": {
+                    "x": 243,
+                    "y": 296
+                }
+            },
+            "EyeLeft_UpperLid": {
+                "top_left": {
+                    "x": 130,
+                    "y": 253
+                },
+                "bottom_right": {
+                    "x": 184,
+                    "y": 274
+                }
+            },
+            "EyeRight_UpperLid": {
+                "top_left": {
+                    "x": 248,
+                    "y": 248
+                },
+                "bottom_right": {
+                    "x": 306,
+                    "y": 269
+                }
+            },
+            "EyeLeft_LowerLid": {
+                "top_left": {
+                    "x": 132,
+                    "y": 291
+                },
+                "bottom_right": {
+                    "x": 177,
+                    "y": 307
+                }
+            },
+            "EyeRight_LowerLid": {
+                "top_left": {
+                    "x": 259,
+                    "y": 285
+                },
+                "bottom_right": {
+                    "x": 305,
+                    "y": 299
+                }
+            },
+            "EyeLeft_Lower": {
+                "top_left": {
+                    "x": 132,
+                    "y": 299
+                },
+                "bottom_right": {
+                    "x": 190,
+                    "y": 332
+                }
+            },
+            "EyeRight_Lower": {
+                "top_left": {
+                    "x": 246,
+                    "y": 296
+                },
+                "bottom_right": {
+                    "x": 305,
+                    "y": 323
+                }
+            },
+            "MouthLeft_Corner": {
+                "top_left": {
+                    "x": 165,
+                    "y": 403
+                },
+                "bottom_right": {
+                    "x": 186,
+                    "y": 423
+                }
+            },
+            "MouthRight_Corner": {
+                "top_left": {
+                    "x": 260,
+                    "y": 399
+                },
+                "bottom_right": {
+                    "x": 287,
+                    "y": 418
+                }
+            },
+            "MouthUpper_Pallium": {
+                "top_left": {
+                    "x": 196,
+                    "y": 355
+                },
+                "bottom_right": {
+                    "x": 250,
+                    "y": 408
+                }
+            },
+            "MouthUpper_Lip": {
+                "top_left": {
+                    "x": 188,
+                    "y": 389
+                },
+                "bottom_right": {
+                    "x": 258,
+                    "y": 414
+                }
+            },
+            "MouthLower_Lip": {
+                "top_left": {
+                    "x": 189,
+                    "y": 397
+                },
+                "bottom_right": {
+                    "x": 259,
+                    "y": 425
+                }
+            },
+            "MouthLower_UnderLip": {
+                "top_left": {
+                    "x": 189,
+                    "y": 416
+                },
+                "bottom_right": {
+                    "x": 259,
+                    "y": 443
+                }
+            },
+            "ChinWhole_Tip": {
+                "top_left": {
+                    "x": 206,
+                    "y": 463
+                },
+                "bottom_right": {
+                    "x": 252,
+                    "y": 486
+                }
+            },
+            "TempleLeft_Whole": {
+                "top_left": {
+                    "x": 92,
+                    "y": 225
+                },
+                "bottom_right": {
+                    "x": 115,
+                    "y": 271
+                }
+            },
+            "TempleRight_Whole": {
+                "top_left": {
+                    "x": 314,
+                    "y": 209
+                },
+                "bottom_right": {
+                    "x": 344,
+                    "y": 253
+                }
+            }
+        },
+        "image_name": "0e822eb9-4212-4ca5-a08a-63e9c8608bd8_ACQ.png",
+        "face_labels": {
+            "EyeLeft_NasalRoot_Dark": "No",
+            "EyeRight_NasalRoot_Dark": "No",
+            "EyeLeft_OuterCorner_Dark": "No",
+            "EyeRight_OuterCorner_Dark": "No",
+            "EyeLeft_InnerCorner_BrightDot": "No",
+            "EyeRight_InnerCorner_BrightDot": "No",
+            "EyeLeft_InnerCorner_Bright": "No",
+            "EyeRight_InnerCorner_Bright": "Yes",
+            "EyeLeft_Whole_Protruding": "No",
+            "EyeRight_Whole_Protruding": "No",
+            "EyeLeft_UpperLid_Droopy": "No",
+            "EyeRight_UpperLid_Droopy": "No",
+            "EyeLeft_Lower_Pale": "No",
+            "EyeRight_Lower_Pale": "No",
+            "EyeLeft_Lower_Tearsack": "No",
+            "EyeRight_Lower_Tearsack": "No",
+            "EyeLeft_Lower_Dark": "No",
+            "EyeRight_Lower_Dark": "No",
+            "MouthUpper_Lip_BrightLine": "No",
+            "MouthLower_Lip_BrightLine": "No",
+            "MouthLeft_Corner_Cracked": "Yes",
+            "MouthRight_Corner_Cracked": "Yes",
+            "MouthLeft_Corner_Red": "No",
+            "MouthRight_Corner_Red": "No",
+            "MouthUpper_Pallium_VerticalWrinkles": "Yes",
+            "MouthUpper_Pallium_Red": "No",
+            "MouthUpper_Pallium_Dark": "No",
+            "MouthLower_UnderLip_Swollen": "Yes",
+            "MouthUpper_UnderLip_VerticalWrinkles": "No",
+            "ChinWhole_Tip_Red": "No",
+            "ChinWhole_Tip_Dimples": "No",
+            "ForeheadCenter_Lower_VerticalWrinkles": "No",
+            "TempleLeft_Whole_Dented": "No",
+            "TempleRight_Whole_Dented": "No",
+            "CheekRight_Whole_Red": "NotLabeled",
+            "CheekLeft_Whole_Red": "NotLabeled",
+            "MouthWhole_Around_BrownYellow": "NotLabeled",
+            "MouthWhole_Lips_Smooth": "NotLabeled",
+            "MouthWhole_Lips_AlteredStructure": "NotLabeled"
+        },
+        "email": "nana@nana.at",
+        "uid": "nana@nana.at_0e822eb9-4212-4ca5-a08a-63e9c8608bd8_ACQ.png"
+    },
+    {
+        "bounding_boxes": {
+            "Mouth_Whole": {
+                "top_left": {
+                    "x": 785,
+                    "y": 2237
+                },
+                "bottom_right": {
+                    "x": 1521,
+                    "y": 2567
+                }
+            },
+            "ForeheadCenter_Lower": {
+                "top_left": {
+                    "x": 1002,
+                    "y": 1026
+                },
+                "bottom_right": {
+                    "x": 1323,
+                    "y": 1602
+                }
+            },
+            "EyeLeft_Whole": {
+                "top_left": {
+                    "x": 580,
+                    "y": 1305
+                },
+                "bottom_right": {
+                    "x": 969,
+                    "y": 1612
+                }
+            },
+            "EyeRight_Whole": {
+                "top_left": {
+                    "x": 1341,
+                    "y": 1306
+                },
+                "bottom_right": {
+                    "x": 1728,
+                    "y": 1608
+                }
+            },
+            "EyeLeft_InnerCorner": {
+                "top_left": {
+                    "x": 879,
+                    "y": 1383
+                },
+                "bottom_right": {
+                    "x": 1029,
+                    "y": 1552
+                }
+            },
+            "EyeRight_InnerCorner": {
+                "top_left": {
+                    "x": 1285,
+                    "y": 1387
+                },
+                "bottom_right": {
+                    "x": 1432,
+                    "y": 1550
+                }
+            },
+            "EyeLeft_OuterCorner": {
+                "top_left": {
+                    "x": 515,
+                    "y": 1383
+                },
+                "bottom_right": {
+                    "x": 622,
+                    "y": 1573
+                }
+            },
+            "EyeRight_OuterCorner": {
+                "top_left": {
+                    "x": 1696,
+                    "y": 1379
+                },
+                "bottom_right": {
+                    "x": 1791,
+                    "y": 1572
+                }
+            },
+            "EyeLeft_NasalRoot": {
+                "top_left": {
+                    "x": 989,
+                    "y": 1452
+                },
+                "bottom_right": {
+                    "x": 1064,
+                    "y": 1613
+                }
+            },
+            "EyeRight_NasalRoot": {
+                "top_left": {
+                    "x": 1257,
+                    "y": 1453
+                },
+                "bottom_right": {
+                    "x": 1329,
+                    "y": 1613
+                }
+            },
+            "EyeLeft_UpperLid": {
+                "top_left": {
+                    "x": 596,
+                    "y": 1248
+                },
+                "bottom_right": {
+                    "x": 943,
+                    "y": 1411
+                }
+            },
+            "EyeRight_UpperLid": {
+                "top_left": {
+                    "x": 1373,
+                    "y": 1256
+                },
+                "bottom_right": {
+                    "x": 1719,
+                    "y": 1409
+                }
+            },
+            "EyeLeft_LowerLid": {
+                "top_left": {
+                    "x": 614,
+                    "y": 1537
+                },
+                "bottom_right": {
+                    "x": 892,
+                    "y": 1641
+                }
+            },
+            "EyeRight_LowerLid": {
+                "top_left": {
+                    "x": 1418,
+                    "y": 1526
+                },
+                "bottom_right": {
+                    "x": 1699,
+                    "y": 1636
+                }
+            },
+            "EyeLeft_Lower": {
+                "top_left": {
+                    "x": 614,
+                    "y": 1613
+                },
+                "bottom_right": {
+                    "x": 971,
+                    "y": 1817
+                }
+            },
+            "EyeRight_Lower": {
+                "top_left": {
+                    "x": 1342,
+                    "y": 1613
+                },
+                "bottom_right": {
+                    "x": 1699,
+                    "y": 1814
+                }
+            },
+            "MouthLeft_Corner": {
+                "top_left": {
+                    "x": 785,
+                    "y": 2340
+                },
+                "bottom_right": {
+                    "x": 974,
+                    "y": 2463
+                }
+            },
+            "MouthRight_Corner": {
+                "top_left": {
+                    "x": 1384,
+                    "y": 2327
+                },
+                "bottom_right": {
+                    "x": 1521,
+                    "y": 2460
+                }
+            },
+            "MouthUpper_Pallium": {
+                "top_left": {
+                    "x": 1027,
+                    "y": 2050
+                },
+                "bottom_right": {
+                    "x": 1335,
+                    "y": 2392
+                }
+            },
+            "MouthUpper_Lip": {
+                "top_left": {
+                    "x": 983,
+                    "y": 2275
+                },
+                "bottom_right": {
+                    "x": 1376,
+                    "y": 2407
+                }
+            },
+            "MouthLower_Lip": {
+                "top_left": {
+                    "x": 980,
+                    "y": 2316
+                },
+                "bottom_right": {
+                    "x": 1380,
+                    "y": 2528
+                }
+            },
+            "MouthLower_UnderLip": {
+                "top_left": {
+                    "x": 980,
+                    "y": 2469
+                },
+                "bottom_right": {
+                    "x": 1380,
+                    "y": 2571
+                }
+            },
+            "ChinWhole_Tip": {
+                "top_left": {
+                    "x": 1027,
+                    "y": 2706
+                },
+                "bottom_right": {
+                    "x": 1298,
+                    "y": 2782
+                }
+            },
+            "TempleLeft_Whole": {
+                "top_left": {
+                    "x": 404,
+                    "y": 1045
+                },
+                "bottom_right": {
+                    "x": 540,
+                    "y": 1305
+                }
+            },
+            "TempleRight_Whole": {
+                "top_left": {
+                    "x": 1753,
+                    "y": 1046
+                },
+                "bottom_right": {
+                    "x": 1856,
+                    "y": 1303
+                }
+            }
+        },
+        "image_name": "5ab232a3-ac93-4415-8250-481e5001434b_ACQ.png",
+        "face_labels": {
+            "EyeLeft_NasalRoot_Dark": "Yes",
+            "EyeRight_NasalRoot_Dark": "Yes",
+            "EyeLeft_OuterCorner_Dark": "No",
+            "EyeRight_OuterCorner_Dark": "No",
+            "EyeLeft_InnerCorner_BrightDot": "No",
+            "EyeRight_InnerCorner_BrightDot": "No",
+            "EyeLeft_InnerCorner_Bright": "Yes",
+            "EyeRight_InnerCorner_Bright": "Yes",
+            "EyeLeft_Whole_Protruding": "No",
+            "EyeRight_Whole_Protruding": "No",
+            "EyeLeft_UpperLid_Droopy": "No",
+            "EyeRight_UpperLid_Droopy": "No",
+            "EyeLeft_Lower_Pale": "No",
+            "EyeRight_Lower_Pale": "No",
+            "EyeLeft_Lower_Tearsack": "No",
+            "EyeRight_Lower_Tearsack": "No",
+            "EyeLeft_Lower_Dark": "Yes",
+            "EyeRight_Lower_Dark": "Yes",
+            "MouthUpper_Lip_BrightLine": "No",
+            "MouthLower_Lip_BrightLine": "No",
+            "MouthLeft_Corner_Cracked": "No",
+            "MouthRight_Corner_Cracked": "No",
+            "MouthLeft_Corner_Red": "No",
+            "MouthRight_Corner_Red": "No",
+            "MouthUpper_Pallium_VerticalWrinkles": "No",
+            "MouthUpper_Pallium_Red": "No",
+            "MouthUpper_Pallium_Dark": "No",
+            "MouthLower_UnderLip_Swollen": "No",
+            "MouthUpper_UnderLip_VerticalWrinkles": "No",
+            "ChinWhole_Tip_Red": "No",
+            "ChinWhole_Tip_Dimples": "No",
+            "ForeheadCenter_Lower_VerticalWrinkles": "No",
+            "TempleLeft_Whole_Dented": "No",
+            "TempleRight_Whole_Dented": "No",
+            "CheekRight_Whole_Red": "NotLabeled",
+            "CheekLeft_Whole_Red": "NotLabeled",
+            "MouthWhole_Around_BrownYellow": "NotLabeled",
+            "MouthWhole_Lips_Smooth": "NotLabeled",
+            "MouthWhole_Lips_AlteredStructure": "NotLabeled"
+        },
+        "email": "nana@nana.at",
+        "uid": "nana@nana.at_5ab232a3-ac93-4415-8250-481e5001434b_ACQ.png"
+    },
+    {
+        "bounding_boxes": {
+            "Mouth_Whole": {
+                "top_left": {
+                    "x": 533,
+                    "y": 1842
+                },
+                "bottom_right": {
+                    "x": 1363,
+                    "y": 2254
+                }
+            },
+            "ForeheadCenter_Lower": {
+                "top_left": {
+                    "x": 767,
+                    "y": 529
+                },
+                "bottom_right": {
+                    "x": 1108,
+                    "y": 1163
+                }
+            },
+            "EyeLeft_Whole": {
+                "top_left": {
+                    "x": 310,
+                    "y": 846
+                },
+                "bottom_right": {
+                    "x": 734,
+                    "y": 1206
+                }
+            },
+            "EyeRight_Whole": {
+                "top_left": {
+                    "x": 1116,
+                    "y": 837
+                },
+                "bottom_right": {
+                    "x": 1515,
+                    "y": 1203
+                }
+            },
+            "EyeLeft_InnerCorner": {
+                "top_left": {
+                    "x": 635,
+                    "y": 951
+                },
+                "bottom_right": {
+                    "x": 797,
+                    "y": 1140
+                }
+            },
+            "EyeRight_InnerCorner": {
+                "top_left": {
+                    "x": 1063,
+                    "y": 947
+                },
+                "bottom_right": {
+                    "x": 1214,
+                    "y": 1147
+                }
+            },
+            "EyeLeft_OuterCorner": {
+                "top_left": {
+                    "x": 239,
+                    "y": 944
+                },
+                "bottom_right": {
+                    "x": 357,
+                    "y": 1165
+                }
+            },
+            "EyeRight_OuterCorner": {
+                "top_left": {
+                    "x": 1462,
+                    "y": 940
+                },
+                "bottom_right": {
+                    "x": 1589,
+                    "y": 1162
+                }
+            },
+            "EyeLeft_NasalRoot": {
+                "top_left": {
+                    "x": 760,
+                    "y": 1011
+                },
+                "bottom_right": {
+                    "x": 837,
+                    "y": 1191
+                }
+            },
+            "EyeRight_NasalRoot": {
+                "top_left": {
+                    "x": 1039,
+                    "y": 1014
+                },
+                "bottom_right": {
+                    "x": 1109,
+                    "y": 1199
+                }
+            },
+            "EyeLeft_UpperLid": {
+                "top_left": {
+                    "x": 326,
+                    "y": 775
+                },
+                "bottom_right": {
+                    "x": 704,
+                    "y": 989
+                }
+            },
+            "EyeRight_UpperLid": {
+                "top_left": {
+                    "x": 1153,
+                    "y": 759
+                },
+                "bottom_right": {
+                    "x": 1487,
+                    "y": 986
+                }
+            },
+            "EyeLeft_LowerLid": {
+                "top_left": {
+                    "x": 348,
+                    "y": 1128
+                },
+                "bottom_right": {
+                    "x": 649,
+                    "y": 1234
+                }
+            },
+            "EyeRight_LowerLid": {
+                "top_left": {
+                    "x": 1196,
+                    "y": 1133
+                },
+                "bottom_right": {
+                    "x": 1482,
+                    "y": 1237
+                }
+            },
+            "EyeLeft_Lower": {
+                "top_left": {
+                    "x": 348,
+                    "y": 1191
+                },
+                "bottom_right": {
+                    "x": 738,
+                    "y": 1410
+                }
+            },
+            "EyeRight_Lower": {
+                "top_left": {
+                    "x": 1121,
+                    "y": 1199
+                },
+                "bottom_right": {
+                    "x": 1482,
+                    "y": 1402
+                }
+            },
+            "MouthLeft_Corner": {
+                "top_left": {
+                    "x": 533,
+                    "y": 1983
+                },
+                "bottom_right": {
+                    "x": 715,
+                    "y": 2115
+                }
+            },
+            "MouthRight_Corner": {
+                "top_left": {
+                    "x": 1174,
+                    "y": 1964
+                },
+                "bottom_right": {
+                    "x": 1363,
+                    "y": 2105
+                }
+            },
+            "MouthUpper_Pallium": {
+                "top_left": {
+                    "x": 775,
+                    "y": 1609
+                },
+                "bottom_right": {
+                    "x": 1119,
+                    "y": 2008
+                }
+            },
+            "MouthUpper_Lip": {
+                "top_left": {
+                    "x": 728,
+                    "y": 1884
+                },
+                "bottom_right": {
+                    "x": 1161,
+                    "y": 2060
+                }
+            },
+            "MouthLower_Lip": {
+                "top_left": {
+                    "x": 720,
+                    "y": 1976
+                },
+                "bottom_right": {
+                    "x": 1167,
+                    "y": 2213
+                }
+            },
+            "MouthLower_UnderLip": {
+                "top_left": {
+                    "x": 720,
+                    "y": 2150
+                },
+                "bottom_right": {
+                    "x": 1167,
+                    "y": 2234
+                }
+            },
+            "ChinWhole_Tip": {
+                "top_left": {
+                    "x": 807,
+                    "y": 2370
+                },
+                "bottom_right": {
+                    "x": 1116,
+                    "y": 2478
+                }
+            },
+            "TempleLeft_Whole": {
+                "top_left": {
+                    "x": 111,
+                    "y": 637
+                },
+                "bottom_right": {
+                    "x": 265,
+                    "y": 940
+                }
+            },
+            "TempleRight_Whole": {
+                "top_left": {
+                    "x": 1573,
+                    "y": 634
+                },
+                "bottom_right": {
+                    "x": 1671,
+                    "y": 931
+                }
+            }
+        },
+        "image_name": "4e3037a4-809b-4573-91bd-cb9d78cc4a27_ACQ.png",
+        "face_labels": {
+            "EyeLeft_NasalRoot_Dark": "No",
+            "EyeRight_NasalRoot_Dark": "No",
+            "EyeLeft_OuterCorner_Dark": "No",
+            "EyeRight_OuterCorner_Dark": "No",
+            "EyeLeft_InnerCorner_BrightDot": "No",
+            "EyeRight_InnerCorner_BrightDot": "No",
+            "EyeLeft_InnerCorner_Bright": "No",
+            "EyeRight_InnerCorner_Bright": "No",
+            "EyeLeft_Whole_Protruding": "No",
+            "EyeRight_Whole_Protruding": "No",
+            "EyeLeft_UpperLid_Droopy": "No",
+            "EyeRight_UpperLid_Droopy": "No",
+            "EyeLeft_Lower_Pale": "No",
+            "EyeRight_Lower_Pale": "No",
+            "EyeLeft_Lower_Tearsack": "Yes",
+            "EyeRight_Lower_Tearsack": "Yes",
+            "EyeLeft_Lower_Dark": "No",
+            "EyeRight_Lower_Dark": "No",
+            "MouthUpper_Lip_BrightLine": "No",
+            "MouthLower_Lip_BrightLine": "No",
+            "MouthLeft_Corner_Cracked": "No",
+            "MouthRight_Corner_Cracked": "No",
+            "MouthLeft_Corner_Red": "No",
+            "MouthRight_Corner_Red": "No",
+            "MouthUpper_Pallium_VerticalWrinkles": "No",
+            "MouthUpper_Pallium_Red": "No",
+            "MouthUpper_Pallium_Dark": "No",
+            "MouthLower_UnderLip_Swollen": "Yes",
+            "MouthUpper_UnderLip_VerticalWrinkles": "No",
+            "ChinWhole_Tip_Red": "No",
+            "ChinWhole_Tip_Dimples": "No",
+            "ForeheadCenter_Lower_VerticalWrinkles": "No",
+            "TempleLeft_Whole_Dented": "No",
+            "TempleRight_Whole_Dented": "No",
+            "CheekRight_Whole_Red": "NotLabeled",
+            "CheekLeft_Whole_Red": "NotLabeled",
+            "MouthWhole_Around_BrownYellow": "NotLabeled",
+            "MouthWhole_Lips_Smooth": "NotLabeled",
+            "MouthWhole_Lips_AlteredStructure": "NotLabeled"
+        },
+        "email": "nana@nana.at",
+        "uid": "nana@nana.at_4e3037a4-809b-4573-91bd-cb9d78cc4a27_ACQ.png"
+    },
+    {
+        "bounding_boxes": {
+            "Mouth_Whole": {
+                "top_left": {
+                    "x": 533,
+                    "y": 1842
+                },
+                "bottom_right": {
+                    "x": 1363,
+                    "y": 2254
+                }
+            },
+            "ForeheadCenter_Lower": {
+                "top_left": {
+                    "x": 767,
+                    "y": 529
+                },
+                "bottom_right": {
+                    "x": 1108,
+                    "y": 1163
+                }
+            },
+            "EyeLeft_Whole": {
+                "top_left": {
+                    "x": 310,
+                    "y": 846
+                },
+                "bottom_right": {
+                    "x": 734,
+                    "y": 1206
+                }
+            },
+            "EyeRight_Whole": {
+                "top_left": {
+                    "x": 1116,
+                    "y": 837
+                },
+                "bottom_right": {
+                    "x": 1515,
+                    "y": 1203
+                }
+            },
+            "EyeLeft_InnerCorner": {
+                "top_left": {
+                    "x": 635,
+                    "y": 951
+                },
+                "bottom_right": {
+                    "x": 797,
+                    "y": 1140
+                }
+            },
+            "EyeRight_InnerCorner": {
+                "top_left": {
+                    "x": 1063,
+                    "y": 947
+                },
+                "bottom_right": {
+                    "x": 1214,
+                    "y": 1147
+                }
+            },
+            "EyeLeft_OuterCorner": {
+                "top_left": {
+                    "x": 239,
+                    "y": 944
+                },
+                "bottom_right": {
+                    "x": 357,
+                    "y": 1165
+                }
+            },
+            "EyeRight_OuterCorner": {
+                "top_left": {
+                    "x": 1462,
+                    "y": 940
+                },
+                "bottom_right": {
+                    "x": 1589,
+                    "y": 1162
+                }
+            },
+            "EyeLeft_NasalRoot": {
+                "top_left": {
+                    "x": 760,
+                    "y": 1011
+                },
+                "bottom_right": {
+                    "x": 837,
+                    "y": 1191
+                }
+            },
+            "EyeRight_NasalRoot": {
+                "top_left": {
+                    "x": 1039,
+                    "y": 1014
+                },
+                "bottom_right": {
+                    "x": 1109,
+                    "y": 1199
+                }
+            },
+            "EyeLeft_UpperLid": {
+                "top_left": {
+                    "x": 326,
+                    "y": 775
+                },
+                "bottom_right": {
+                    "x": 704,
+                    "y": 989
+                }
+            },
+            "EyeRight_UpperLid": {
+                "top_left": {
+                    "x": 1153,
+                    "y": 759
+                },
+                "bottom_right": {
+                    "x": 1487,
+                    "y": 986
+                }
+            },
+            "EyeLeft_LowerLid": {
+                "top_left": {
+                    "x": 348,
+                    "y": 1128
+                },
+                "bottom_right": {
+                    "x": 649,
+                    "y": 1234
+                }
+            },
+            "EyeRight_LowerLid": {
+                "top_left": {
+                    "x": 1196,
+                    "y": 1133
+                },
+                "bottom_right": {
+                    "x": 1482,
+                    "y": 1237
+                }
+            },
+            "EyeLeft_Lower": {
+                "top_left": {
+                    "x": 348,
+                    "y": 1191
+                },
+                "bottom_right": {
+                    "x": 738,
+                    "y": 1410
+                }
+            },
+            "EyeRight_Lower": {
+                "top_left": {
+                    "x": 1121,
+                    "y": 1199
+                },
+                "bottom_right": {
+                    "x": 1482,
+                    "y": 1402
+                }
+            },
+            "MouthLeft_Corner": {
+                "top_left": {
+                    "x": 533,
+                    "y": 1983
+                },
+                "bottom_right": {
+                    "x": 715,
+                    "y": 2115
+                }
+            },
+            "MouthRight_Corner": {
+                "top_left": {
+                    "x": 1174,
+                    "y": 1964
+                },
+                "bottom_right": {
+                    "x": 1363,
+                    "y": 2105
+                }
+            },
+            "MouthUpper_Pallium": {
+                "top_left": {
+                    "x": 775,
+                    "y": 1609
+                },
+                "bottom_right": {
+                    "x": 1119,
+                    "y": 2008
+                }
+            },
+            "MouthUpper_Lip": {
+                "top_left": {
+                    "x": 728,
+                    "y": 1884
+                },
+                "bottom_right": {
+                    "x": 1161,
+                    "y": 2060
+                }
+            },
+            "MouthLower_Lip": {
+                "top_left": {
+                    "x": 720,
+                    "y": 1976
+                },
+                "bottom_right": {
+                    "x": 1167,
+                    "y": 2213
+                }
+            },
+            "MouthLower_UnderLip": {
+                "top_left": {
+                    "x": 720,
+                    "y": 2150
+                },
+                "bottom_right": {
+                    "x": 1167,
+                    "y": 2234
+                }
+            },
+            "ChinWhole_Tip": {
+                "top_left": {
+                    "x": 807,
+                    "y": 2370
+                },
+                "bottom_right": {
+                    "x": 1116,
+                    "y": 2478
+                }
+            },
+            "TempleLeft_Whole": {
+                "top_left": {
+                    "x": 111,
+                    "y": 637
+                },
+                "bottom_right": {
+                    "x": 265,
+                    "y": 940
+                }
+            },
+            "TempleRight_Whole": {
+                "top_left": {
+                    "x": 1573,
+                    "y": 634
+                },
+                "bottom_right": {
+                    "x": 1671,
+                    "y": 931
+                }
+            }
+        },
+        "image_name": "4e3037a4-809b-4573-91bd-cb9d78cc4a27_ACQ.png",
+        "face_labels": {
+            "EyeLeft_NasalRoot_Dark": "No",
+            "EyeRight_NasalRoot_Dark": "No",
+            "EyeLeft_OuterCorner_Dark": "No",
+            "EyeRight_OuterCorner_Dark": "No",
+            "EyeLeft_InnerCorner_BrightDot": "No",
+            "EyeRight_InnerCorner_BrightDot": "No",
+            "EyeLeft_InnerCorner_Bright": "No",
+            "EyeRight_InnerCorner_Bright": "No",
+            "EyeLeft_Whole_Protruding": "No",
+            "EyeRight_Whole_Protruding": "No",
+            "EyeLeft_UpperLid_Droopy": "No",
+            "EyeRight_UpperLid_Droopy": "No",
+            "EyeLeft_Lower_Pale": "No",
+            "EyeRight_Lower_Pale": "No",
+            "EyeLeft_Lower_Tearsack": "No",
+            "EyeRight_Lower_Tearsack": "Yes",
+            "EyeLeft_Lower_Dark": "No",
+            "EyeRight_Lower_Dark": "No",
+            "MouthUpper_Lip_BrightLine": "No",
+            "MouthLower_Lip_BrightLine": "No",
+            "MouthLeft_Corner_Cracked": "No",
+            "MouthRight_Corner_Cracked": "Yes",
+            "MouthLeft_Corner_Red": "No",
+            "MouthRight_Corner_Red": "No",
+            "MouthUpper_Pallium_VerticalWrinkles": "No",
+            "MouthUpper_Pallium_Red": "No",
+            "MouthUpper_Pallium_Dark": "No",
+            "MouthLower_UnderLip_Swollen": "Yes",
+            "MouthUpper_UnderLip_VerticalWrinkles": "No",
+            "ChinWhole_Tip_Red": "No",
+            "ChinWhole_Tip_Dimples": "No",
+            "ForeheadCenter_Lower_VerticalWrinkles": "No",
+            "TempleLeft_Whole_Dented": "No",
+            "TempleRight_Whole_Dented": "No",
+            "CheekRight_Whole_Red": "NotLabeled",
+            "CheekLeft_Whole_Red": "NotLabeled",
+            "MouthWhole_Around_BrownYellow": "NotLabeled",
+            "MouthWhole_Lips_Smooth": "NotLabeled",
+            "MouthWhole_Lips_AlteredStructure": "NotLabeled"
+        },
+        "email": "nana2@nana.at",
+        "uid": "nana@nana.at_4e3037a4-809b-4573-91bd-cb9d78cc4a27_ACQ.png"
+    },
+    {
+        "bounding_boxes": {
+            "Mouth_Whole": {
+                "top_left": {
+                    "x": 805,
+                    "y": 2146
+                },
+                "bottom_right": {
+                    "x": 1586,
+                    "y": 2548
+                }
+            },
+            "ForeheadCenter_Lower": {
+                "top_left": {
+                    "x": 1104,
+                    "y": 862
+                },
+                "bottom_right": {
+                    "x": 1460,
+                    "y": 1456
+                }
+            },
+            "EyeLeft_Whole": {
+                "top_left": {
+                    "x": 637,
+                    "y": 1098
+                },
+                "bottom_right": {
+                    "x": 1068,
+                    "y": 1442
+                }
+            },
+            "EyeRight_Whole": {
+                "top_left": {
+                    "x": 1444,
+                    "y": 1175
+                },
+                "bottom_right": {
+                    "x": 1865,
+                    "y": 1533
+                }
+            },
+            "EyeLeft_InnerCorner": {
+                "top_left": {
+                    "x": 967,
+                    "y": 1216
+                },
+                "bottom_right": {
+                    "x": 1132,
+                    "y": 1400
+                }
+            },
+            "EyeRight_InnerCorner": {
+                "top_left": {
+                    "x": 1396,
+                    "y": 1266
+                },
+                "bottom_right": {
+                    "x": 1540,
+                    "y": 1448
+                }
+            },
+            "EyeLeft_OuterCorner": {
+                "top_left": {
+                    "x": 561,
+                    "y": 1185
+                },
+                "bottom_right": {
+                    "x": 702,
+                    "y": 1393
+                }
+            },
+            "EyeRight_OuterCorner": {
+                "top_left": {
+                    "x": 1834,
+                    "y": 1276
+                },
+                "bottom_right": {
+                    "x": 1934,
+                    "y": 1488
+                }
+            },
+            "EyeLeft_NasalRoot": {
+                "top_left": {
+                    "x": 1075,
+                    "y": 1304
+                },
+                "bottom_right": {
+                    "x": 1164,
+                    "y": 1482
+                }
+            },
+            "EyeRight_NasalRoot": {
+                "top_left": {
+                    "x": 1375,
+                    "y": 1327
+                },
+                "bottom_right": {
+                    "x": 1436,
+                    "y": 1513
+                }
+            },
+            "EyeLeft_UpperLid": {
+                "top_left": {
+                    "x": 669,
+                    "y": 1040
+                },
+                "bottom_right": {
+                    "x": 1043,
+                    "y": 1251
+                }
+            },
+            "EyeRight_UpperLid": {
+                "top_left": {
+                    "x": 1501,
+                    "y": 1106
+                },
+                "bottom_right": {
+                    "x": 1855,
+                    "y": 1323
+                }
+            },
+            "EyeLeft_LowerLid": {
+                "top_left": {
+                    "x": 669,
+                    "y": 1367
+                },
+                "bottom_right": {
+                    "x": 985,
+                    "y": 1491
+                }
+            },
+            "EyeRight_LowerLid": {
+                "top_left": {
+                    "x": 1525,
+                    "y": 1437
+                },
+                "bottom_right": {
+                    "x": 1831,
+                    "y": 1558
+                }
+            },
+            "EyeLeft_Lower": {
+                "top_left": {
+                    "x": 669,
+                    "y": 1482
+                },
+                "bottom_right": {
+                    "x": 1063,
+                    "y": 1684
+                }
+            },
+            "EyeRight_Lower": {
+                "top_left": {
+                    "x": 1446,
+                    "y": 1513
+                },
+                "bottom_right": {
+                    "x": 1831,
+                    "y": 1741
+                }
+            },
+            "MouthLeft_Corner": {
+                "top_left": {
+                    "x": 805,
+                    "y": 2257
+                },
+                "bottom_right": {
+                    "x": 997,
+                    "y": 2394
+                }
+            },
+            "MouthRight_Corner": {
+                "top_left": {
+                    "x": 1439,
+                    "y": 2260
+                },
+                "bottom_right": {
+                    "x": 1586,
+                    "y": 2428
+                }
+            },
+            "MouthUpper_Pallium": {
+                "top_left": {
+                    "x": 1051,
+                    "y": 1979
+                },
+                "bottom_right": {
+                    "x": 1386,
+                    "y": 2316
+                }
+            },
+            "MouthUpper_Lip": {
+                "top_left": {
+                    "x": 1009,
+                    "y": 2189
+                },
+                "bottom_right": {
+                    "x": 1427,
+                    "y": 2333
+                }
+            },
+            "MouthLower_Lip": {
+                "top_left": {
+                    "x": 1005,
+                    "y": 2272
+                },
+                "bottom_right": {
+                    "x": 1429,
+                    "y": 2506
+                }
+            },
+            "MouthLower_UnderLip": {
+                "top_left": {
+                    "x": 1005,
+                    "y": 2442
+                },
+                "bottom_right": {
+                    "x": 1429,
+                    "y": 2505
+                }
+            },
+            "ChinWhole_Tip": {
+                "top_left": {
+                    "x": 1037,
+                    "y": 2654
+                },
+                "bottom_right": {
+                    "x": 1314,
+                    "y": 2712
+                }
+            },
+            "TempleLeft_Whole": {
+                "top_left": {
+                    "x": 479,
+                    "y": 781
+                },
+                "bottom_right": {
+                    "x": 616,
+                    "y": 1068
+                }
+            },
+            "TempleRight_Whole": {
+                "top_left": {
+                    "x": 1954,
+                    "y": 881
+                },
+                "bottom_right": {
+                    "x": 2046,
+                    "y": 1177
+                }
+            }
+        },
+        "image_name": "7fd43bc9-7a17-40e9-b6f2-6cc43c5d1c06_ACQ.png",
+        "face_labels": {
+            "EyeLeft_NasalRoot_Dark": "Yes",
+            "EyeRight_NasalRoot_Dark": "Yes",
+            "EyeLeft_OuterCorner_Dark": "No",
+            "EyeRight_OuterCorner_Dark": "No",
+            "EyeLeft_InnerCorner_BrightDot": "No",
+            "EyeRight_InnerCorner_BrightDot": "No",
+            "EyeLeft_InnerCorner_Bright": "No",
+            "EyeRight_InnerCorner_Bright": "No",
+            "EyeLeft_Whole_Protruding": "No",
+            "EyeRight_Whole_Protruding": "No",
+            "EyeLeft_UpperLid_Droopy": "No",
+            "EyeRight_UpperLid_Droopy": "No",
+            "EyeLeft_Lower_Pale": "No",
+            "EyeRight_Lower_Pale": "No",
+            "EyeLeft_Lower_Tearsack": "No",
+            "EyeRight_Lower_Tearsack": "No",
+            "EyeLeft_Lower_Dark": "No",
+            "EyeRight_Lower_Dark": "No",
+            "MouthUpper_Lip_BrightLine": "No",
+            "MouthLower_Lip_BrightLine": "No",
+            "MouthLeft_Corner_Cracked": "No",
+            "MouthRight_Corner_Cracked": "No",
+            "MouthLeft_Corner_Red": "No",
+            "MouthRight_Corner_Red": "No",
+            "MouthUpper_Pallium_VerticalWrinkles": "No",
+            "MouthUpper_Pallium_Red": "No",
+            "MouthUpper_Pallium_Dark": "No",
+            "MouthLower_UnderLip_Swollen": "No",
+            "MouthUpper_UnderLip_VerticalWrinkles": "No",
+            "ChinWhole_Tip_Red": "No",
+            "ChinWhole_Tip_Dimples": "No",
+            "ForeheadCenter_Lower_VerticalWrinkles": "No",
+            "TempleLeft_Whole_Dented": "No",
+            "TempleRight_Whole_Dented": "No",
+            "CheekRight_Whole_Red": "NotLabeled",
+            "CheekLeft_Whole_Red": "NotLabeled",
+            "MouthWhole_Around_BrownYellow": "NotLabeled",
+            "MouthWhole_Lips_Smooth": "NotLabeled",
+            "MouthWhole_Lips_AlteredStructure": "NotLabeled"
+        },
+        "email": "nana@nana.at",
+        "uid": "nana@nana.at_7fd43bc9-7a17-40e9-b6f2-6cc43c5d1c06_ACQ.png"
+    }
+]
