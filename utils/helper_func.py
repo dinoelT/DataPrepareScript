@@ -3,6 +3,9 @@ import requests
 from datetime import datetime
 from .constants import DATETIME_FORMAT, URL, IMAGES_PATH
 from typing import List
+import concurrent
+import os
+from tqdm import tqdm
 
 # Convert datetime object to string
 def datetime_to_str(d: datetime):
@@ -66,11 +69,11 @@ def download_image(url: str, save_path: str):
 # Get presigned links and download multiple images
 def download_many_images(image_names: List[str]):
   BATCH_SIZE = 50
-  
+
   batches = []
 
   for i in range(len(image_names)//BATCH_SIZE + 1):
-    batches.append(missing[i*BATCH_SIZE: (i+1)*BATCH_SIZE])
+    batches.append(image_names[i*BATCH_SIZE: (i+1)*BATCH_SIZE])
 
   for batch in batches:
     urls = get_presigned_url(batch)

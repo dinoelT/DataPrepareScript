@@ -12,7 +12,6 @@ CROPPED_AUGMENTED_PATH = os.path.join(TRAINING_FOLDER, "Cropped", "CroppedAugmen
 CROPPED_RESIZED_PATH = os.path.join(TRAINING_FOLDER, "Cropped", "Resized")
 
 
-
 DATETIME_FORMAT = "%Y-%m-%dT%H:%M:%S"
 
 STAGE = "dev"

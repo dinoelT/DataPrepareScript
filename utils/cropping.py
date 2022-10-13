@@ -9,13 +9,15 @@ from .constants import (
   IMAGES_PATH
 )
 
-from typing import List, Tuple
+from typing import List, Tuple, Dict
 from PIL import Image
 import numpy as np
 import concurrent
 import random
 from tqdm import tqdm
 import os, json
+import matplotlib.pyplot as plt
+
 # Given an object in the following format:
 # {
 #   "image_name": "in_001382_male_21_InGlasses0.jpg",
@@ -51,7 +53,7 @@ def crop_bounding_boxes(image_label, folder_orig, folder_aug, nr_rotations = 2):
       img = np.array(Image.open(path).convert("RGB"))
     except Exception as e:
       return image_name
-    
+
     orig_cropped = img[y1: y2, x1: x2, :]
 
     cropped_pil = Image.fromarray(orig_cropped)
@@ -61,7 +63,7 @@ def crop_bounding_boxes(image_label, folder_orig, folder_aug, nr_rotations = 2):
     cropped_pil.save(img_path)
 
     bbs = BoundingBoxesOnImage([BoundingBox(x1=x1, y1=y1, x2=x2, y2=y2)], shape=img.shape)
-  
+
     angles = [random.randint(-20, 20) for _ in range(nr_rotations)]
 
     for angle in angles:
@@ -84,7 +86,7 @@ def crop_bounding_boxes(image_label, folder_orig, folder_aug, nr_rotations = 2):
 # This function takes the model_name as a parameter(it's also the folder name)
 # And crops the images for the Yes and No folders
 def crop_images(model_name: str, max_workers = 100):
-  
+
   missing_images = []
 
   labels_path = os.path.join(PROCESSED_LABELS_PATH, model_name)
@@ -120,7 +122,7 @@ def get_image_size(image_path):
   width, height = img.size
   return (width, height)
 
-# Counts the amount of 
+# Counts the amount of
 def count_widths_heights(model_name: str, max_workers = 100)->List[Tuple[int, int]]:
   model_path = os.path.join(CROPPED_ORIG_PATH, model_name)
 
@@ -128,7 +130,7 @@ def count_widths_heights(model_name: str, max_workers = 100)->List[Tuple[int, in
     raise ValueError(f"Path '{model_path}' does not exist")
 
   cropped_images_paths = []
-  
+
   for l in ("Yes", "No"):
     labels_path = os.path.join(model_path, l)
     image_paths = [os.path.join(labels_path, img) for img in os.listdir(labels_path) if ".png" in img]
@@ -159,7 +161,7 @@ def count_widths_heights(model_name: str, max_workers = 100)->List[Tuple[int, in
 # widths = res["widths"]
 # heights = res["heights"]
 
-import matplotlib.pyplot as plt
+
 
 def draw_histogram(widths: List[int], heights: List[int]):
   fig, ax = plt.subplots()
@@ -173,11 +175,11 @@ def draw_histogram(widths: List[int], heights: List[int]):
   plt.show()
 
 
-# Resize one image. Reads from src_img_path, saves to save_path. 
+# Resize one image. Reads from src_img_path, saves to save_path.
 def resize_image(src_img_path, save_path, size_w_h = Tuple[int, int]):
   Image.open(src_img_path).resize(size_w_h).save(save_path)
 
-# Counts the amount of 
+# Counts the amount of
 def resize_images_for_model(model_name: str, size_w_h = Tuple[int, int], max_workers = 100):
   width, height = size_w_h
 
@@ -194,7 +196,7 @@ def resize_images_for_model(model_name: str, size_w_h = Tuple[int, int], max_wor
     source_folder = os.path.join(source_model_path, label)
     dest_folder = os.path.join(dest_model_path, label)
     os.makedirs(dest_folder, exist_ok=True)
-    
+
     for img in os.listdir(source_folder):
       if ".png" in img:
         img_src = os.path.join(source_folder, img)
@@ -215,7 +217,7 @@ def resize_images_for_model(model_name: str, size_w_h = Tuple[int, int], max_wor
 def read_numpy(src_img_path: str, size_w_h = Tuple[int, int]):
   return np.array(Image.open(src_img_path))
 
-# Read all cropped and resized images in a numpy array based on Label 
+# Read all cropped and resized images in a numpy array based on Label
 def read_images_as_ndarray(model_name: str, size_w_h = Tuple[int, int], max_workers = 100)-> Dict[str, np.ndarray]:
   width, height = size_w_h
   source_model_path = os.path.join(CROPPED_RESIZED_PATH, model_name, f"w_{width}_h_{height}")
@@ -228,7 +230,6 @@ def read_images_as_ndarray(model_name: str, size_w_h = Tuple[int, int], max_work
 
     source_folder = os.path.join(source_model_path, label)
     images_to_read = [os.path.join(source_folder, img) for img in os.listdir(source_folder) if ".png" in img]
-    
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
       futures = []

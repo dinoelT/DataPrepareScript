@@ -40,46 +40,46 @@
         "ForeheadCenter_Lower_VerticalWrinkles": "ForeheadCenter_Lower_VerticalWrinkles",
         "MouthUpper_Pallium_Dark": "MouthUpper_Pallium_Dark"
     },
-    "FEATURE_TO_BOUNDING_BOX":{
-            "MouthRight_Corner_Red": "MouthRight_Corner",
-            "MouthLeft_Corner_Red": "MouthLeft_Corner",
-            "MouthLower_Lip_BrightLine": "MouthLower_Lip",
-            "EyeRight_UpperLid_Droopy": "EyeRight_UpperLid",
-            "EyeLeft_UpperLid_Droopy": "EyeLeft_UpperLid",
-            "EyeRight_Lower_Tearsack": "EyeRight_Lower",
-            "EyeLeft_Lower_Tearsack": "EyeLeft_Lower",
-            "EyeLeft_Lower_Pale": "EyeLeft_Lower",
-            "EyeRight_Lower_Pale": "EyeRight_Lower",
-            "MouthWhole_Around_BrownYellow": "MouthWhole_Around",
-            "CheekLeft_Whole_Red": "CheekLeft_Whole",
-            "CheekRight_Whole_Red": "CheekRight_Whole",
-            "MouthWhole_Lips_Smooth": "MouthWhole_Lips",
-            "EyeLeft_InnerCorner_Bright": "EyeLeft_InnerCorner",
-            "EyeRight_InnerCorner_Bright": "EyeRight_InnerCorner",
-            "EyeRight_Lower_Dark": "EyeRight_Lower",
-            "EyeLeft_Lower_Dark": "EyeLeft_Lower",
-            "MouthRight_Corner_Cracked": "MouthRight_Corner",
-            "MouthLeft_Corner_Cracked": "MouthLeft_Corner",
-            "MouthUpper_UnderLip_VerticalWrinkles": "MouthUpper_UnderLip",
-            "EyeRight_NasalRoot_Dark": "EyeRight_NasalRoot",
-            "EyeLeft_NasalRoot_Dark": "EyeLeft_NasalRoot",
-            "EyeLeft_InnerCorner_BrightDot": "EyeLeft_InnerCorner",
-            "EyeRight_InnerCorner_BrightDot": "EyeRight_InnerCorner",
-            "TempleLeft_Whole_Dented": "TempleLeft_Whole",
-            "TempleRight_Whole_Dented": "TempleRight_Whole",
-            "MouthUpper_Pallium_VerticalWrinkles": "MouthUpper_Pallium",
-            "MouthUpper_Lip_BrightLine": "MouthUpper_Lip",
-            "MouthUpper_Pallium_Red": "MouthUpper_Pallium",
-            "MouthLower_UnderLip_Swollen": "MouthLower_UnderLip",
-            "MouthWhole_Lips_AlteredStructure": "MouthWhole_Lips",
-            "EyeRight_Whole_Protruding": "EyeRight_Whole",
-            "EyeLeft_Whole_Protruding": "EyeLeft_Whole",
-            "ChinWhole_Tip_Red": "ChinWhole_Tip",
-            "EyeRight_OuterCorner_Dark": "EyeRight_OuterCorner",
-            "EyeLeft_OuterCorner_Dark": "EyeLeft_OuterCorner",
-            "ChinWhole_Tip_Dimples": "ChinWhole_Tip",
-            "ForeheadCenter_Lower_VerticalWrinkles": "ForeheadCenter_Lower",
-            "MouthUpper_Pallium_Dark": "MouthUpper_Pallium"
+    "FEATURE_TO_BOUNDING_BOX": {
+        "MouthRight_Corner_Red": "MouthRight_Corner",
+        "MouthLeft_Corner_Red": "MouthLeft_Corner",
+        "MouthLower_Lip_BrightLine": "MouthLower_Lip",
+        "EyeRight_UpperLid_Droopy": "EyeRight_UpperLid",
+        "EyeLeft_UpperLid_Droopy": "EyeLeft_UpperLid",
+        "EyeRight_Lower_Tearsack": "EyeRight_Lower",
+        "EyeLeft_Lower_Tearsack": "EyeLeft_Lower",
+        "EyeLeft_Lower_Pale": "EyeLeft_Lower",
+        "EyeRight_Lower_Pale": "EyeRight_Lower",
+        "MouthWhole_Around_BrownYellow": "MouthWhole_Around",
+        "CheekLeft_Whole_Red": "CheekLeft_Whole",
+        "CheekRight_Whole_Red": "CheekRight_Whole",
+        "MouthWhole_Lips_Smooth": "MouthWhole_Lips",
+        "EyeLeft_InnerCorner_Bright": "EyeLeft_InnerCorner",
+        "EyeRight_InnerCorner_Bright": "EyeRight_InnerCorner",
+        "EyeRight_Lower_Dark": "EyeRight_Lower",
+        "EyeLeft_Lower_Dark": "EyeLeft_Lower",
+        "MouthRight_Corner_Cracked": "MouthRight_Corner",
+        "MouthLeft_Corner_Cracked": "MouthLeft_Corner",
+        "MouthUpper_UnderLip_VerticalWrinkles": "MouthUpper_UnderLip",
+        "EyeRight_NasalRoot_Dark": "EyeRight_NasalRoot",
+        "EyeLeft_NasalRoot_Dark": "EyeLeft_NasalRoot",
+        "EyeLeft_InnerCorner_BrightDot": "EyeLeft_InnerCorner",
+        "EyeRight_InnerCorner_BrightDot": "EyeRight_InnerCorner",
+        "TempleLeft_Whole_Dented": "TempleLeft_Whole",
+        "TempleRight_Whole_Dented": "TempleRight_Whole",
+        "MouthUpper_Pallium_VerticalWrinkles": "MouthUpper_Pallium",
+        "MouthUpper_Lip_BrightLine": "MouthUpper_Lip",
+        "MouthUpper_Pallium_Red": "MouthUpper_Pallium",
+        "MouthLower_UnderLip_Swollen": "MouthLower_UnderLip",
+        "MouthWhole_Lips_AlteredStructure": "MouthWhole_Lips",
+        "EyeRight_Whole_Protruding": "EyeRight_Whole",
+        "EyeLeft_Whole_Protruding": "EyeLeft_Whole",
+        "ChinWhole_Tip_Red": "ChinWhole_Tip",
+        "EyeRight_OuterCorner_Dark": "EyeRight_OuterCorner",
+        "EyeLeft_OuterCorner_Dark": "EyeLeft_OuterCorner",
+        "ChinWhole_Tip_Dimples": "ChinWhole_Tip",
+        "ForeheadCenter_Lower_VerticalWrinkles": "ForeheadCenter_Lower",
+        "MouthUpper_Pallium_Dark": "MouthUpper_Pallium"
     },
     "LABELED_IMAGES": [
         "11733_NVDE.png",
@@ -4956,6 +4956,101 @@
         ],
         "MouthUpper_Pallium_Dark": [
             "MouthUpper_Pallium_Dark"
+        ]
+    },
+    "BB_TO_FEATURES": {
+        "MouthRight_Corner": [
+            "MouthRight_Corner_Red",
+            "MouthRight_Corner_Cracked"
+        ],
+        "MouthLeft_Corner": [
+            "MouthLeft_Corner_Red",
+            "MouthLeft_Corner_Cracked"
+        ],
+        "MouthLower_Lip": [
+            "MouthLower_Lip_BrightLine"
+        ],
+        "EyeRight_UpperLid": [
+            "EyeRight_UpperLid_Droopy"
+        ],
+        "EyeLeft_UpperLid": [
+            "EyeLeft_UpperLid_Droopy"
+        ],
+        "EyeRight_Lower": [
+            "EyeRight_Lower_Tearsack",
+            "EyeRight_Lower_Pale",
+            "EyeRight_Lower_Dark"
+        ],
+        "EyeLeft_Lower": [
+            "EyeLeft_Lower_Tearsack",
+            "EyeLeft_Lower_Pale",
+            "EyeLeft_Lower_Dark"
+        ],
+        "MouthWhole_Around": [
+            "MouthWhole_Around_BrownYellow"
+        ],
+        "CheekLeft_Whole": [
+            "CheekLeft_Whole_Red"
+        ],
+        "CheekRight_Whole": [
+            "CheekRight_Whole_Red"
+        ],
+        "MouthWhole_Lips": [
+            "MouthWhole_Lips_Smooth",
+            "MouthWhole_Lips_AlteredStructure"
+        ],
+        "EyeLeft_InnerCorner": [
+            "EyeLeft_InnerCorner_Bright",
+            "EyeLeft_InnerCorner_BrightDot"
+        ],
+        "EyeRight_InnerCorner": [
+            "EyeRight_InnerCorner_Bright",
+            "EyeRight_InnerCorner_BrightDot"
+        ],
+        "MouthUpper_UnderLip": [
+            "MouthUpper_UnderLip_VerticalWrinkles"
+        ],
+        "EyeRight_NasalRoot": [
+            "EyeRight_NasalRoot_Dark"
+        ],
+        "EyeLeft_NasalRoot": [
+            "EyeLeft_NasalRoot_Dark"
+        ],
+        "TempleLeft_Whole": [
+            "TempleLeft_Whole_Dented"
+        ],
+        "TempleRight_Whole": [
+            "TempleRight_Whole_Dented"
+        ],
+        "MouthUpper_Pallium": [
+            "MouthUpper_Pallium_VerticalWrinkles",
+            "MouthUpper_Pallium_Red",
+            "MouthUpper_Pallium_Dark"
+        ],
+        "MouthUpper_Lip": [
+            "MouthUpper_Lip_BrightLine"
+        ],
+        "MouthLower_UnderLip": [
+            "MouthLower_UnderLip_Swollen"
+        ],
+        "EyeRight_Whole": [
+            "EyeRight_Whole_Protruding"
+        ],
+        "EyeLeft_Whole": [
+            "EyeLeft_Whole_Protruding"
+        ],
+        "ChinWhole_Tip": [
+            "ChinWhole_Tip_Red",
+            "ChinWhole_Tip_Dimples"
+        ],
+        "EyeRight_OuterCorner": [
+            "EyeRight_OuterCorner_Dark"
+        ],
+        "EyeLeft_OuterCorner": [
+            "EyeLeft_OuterCorner_Dark"
+        ],
+        "ForeheadCenter_Lower": [
+            "ForeheadCenter_Lower_VerticalWrinkles"
         ]
     }
 }
